@@ -1,0 +1,2428 @@
+008001.jpg,262,152,387,271
+008002.jpg,232,179,383,308
+008002.jpg,548,208,689,311
+008003.jpg,can not detect any boxes.
+008004.jpg,393,282,444,384
+008004.jpg,513,268,565,370
+008005.jpg,352,100,579,298
+008006.jpg,121,132,344,366
+008007.jpg,can not detect any boxes.
+008008.jpg,441,263,542,475
+008008.jpg,67,152,197,221
+008008.jpg,248,190,314,270
+008009.jpg,can not detect any boxes.
+008010.jpg,356,75,772,419
+008011.jpg,231,169,258,206
+008011.jpg,343,142,394,185
+008012.jpg,376,59,697,538
+008013.jpg,208,179,325,304
+008014.jpg,can not detect any boxes.
+008015.jpg,can not detect any boxes.
+008016.jpg,412,460,466,509
+008017.jpg,can not detect any boxes.
+008018.jpg,can not detect any boxes.
+008019.jpg,can not detect any boxes.
+008020.jpg,306,109,510,320
+008021.jpg,846,36,963,137
+008022.jpg,can not detect any boxes.
+008023.jpg,386,0,887,501
+008024.jpg,389,40,513,276
+008025.jpg,186,274,260,343
+008026.jpg,277,161,470,305
+008027.jpg,can not detect any boxes.
+008028.jpg,can not detect any boxes.
+008029.jpg,can not detect any boxes.
+008030.jpg,233,231,300,288
+008030.jpg,348,292,397,342
+008031.jpg,518,156,664,260
+008032.jpg,can not detect any boxes.
+008033.jpg,can not detect any boxes.
+008034.jpg,can not detect any boxes.
+008035.jpg,can not detect any boxes.
+008036.jpg,can not detect any boxes.
+008037.jpg,216,94,346,305
+008037.jpg,570,107,673,241
+008038.jpg,can not detect any boxes.
+008039.jpg,668,326,722,429
+008040.jpg,654,304,696,350
+008040.jpg,475,304,531,358
+008040.jpg,272,292,329,343
+008041.jpg,561,298,770,462
+008041.jpg,302,76,362,239
+008042.jpg,can not detect any boxes.
+008043.jpg,can not detect any boxes.
+008044.jpg,250,127,332,230
+008045.jpg,624,150,682,259
+008045.jpg,419,563,594,673
+008045.jpg,81,557,246,673
+008046.jpg,can not detect any boxes.
+008047.jpg,464,167,656,362
+008048.jpg,379,47,437,211
+008049.jpg,106,46,139,68
+008049.jpg,33,104,62,124
+008049.jpg,90,133,117,159
+008050.jpg,218,59,241,89
+008051.jpg,150,34,168,49
+008052.jpg,150,182,371,387
+008053.jpg,can not detect any boxes.
+008054.jpg,98,13,545,463
+008055.jpg,can not detect any boxes.
+008056.jpg,can not detect any boxes.
+008057.jpg,676,237,786,350
+008058.jpg,can not detect any boxes.
+008059.jpg,466,482,612,645
+008059.jpg,105,328,327,571
+008060.jpg,can not detect any boxes.
+008061.jpg,269,281,619,488
+008062.jpg,can not detect any boxes.
+008063.jpg,478,131,570,251
+008064.jpg,514,344,607,525
+008065.jpg,281,99,463,253
+008066.jpg,237,135,429,263
+008067.jpg,131,198,156,253
+008067.jpg,326,127,344,158
+008067.jpg,113,67,132,88
+008067.jpg,207,210,248,260
+008068.jpg,172,130,327,238
+008069.jpg,256,391,312,442
+008069.jpg,310,457,350,491
+008069.jpg,193,118,237,157
+008069.jpg,216,476,255,508
+008069.jpg,125,453,165,489
+008070.jpg,can not detect any boxes.
+008071.jpg,455,236,474,268
+008071.jpg,680,227,746,286
+008071.jpg,176,222,201,251
+008071.jpg,285,187,324,227
+008072.jpg,113,41,316,220
+008073.jpg,199,253,361,337
+008073.jpg,184,199,376,381
+008073.jpg,507,201,621,303
+008074.jpg,can not detect any boxes.
+008075.jpg,197,194,238,292
+008076.jpg,331,41,359,109
+008077.jpg,can not detect any boxes.
+008078.jpg,can not detect any boxes.
+008079.jpg,258,162,478,305
+008080.jpg,can not detect any boxes.
+008081.jpg,319,178,396,246
+008082.jpg,can not detect any boxes.
+008083.jpg,509,147,566,197
+008084.jpg,can not detect any boxes.
+008085.jpg,16,158,39,177
+008085.jpg,66,58,154,135
+008086.jpg,can not detect any boxes.
+008087.jpg,135,48,183,111
+008088.jpg,can not detect any boxes.
+008089.jpg,can not detect any boxes.
+008090.jpg,209,112,533,342
+008091.jpg,61,241,117,298
+008091.jpg,133,37,161,91
+008091.jpg,6,86,63,143
+008091.jpg,230,127,287,205
+008092.jpg,can not detect any boxes.
+008093.jpg,can not detect any boxes.
+008094.jpg,can not detect any boxes.
+008095.jpg,254,169,386,286
+008096.jpg,can not detect any boxes.
+008097.jpg,552,128,592,178
+008097.jpg,781,112,844,175
+008097.jpg,644,150,684,197
+008098.jpg,can not detect any boxes.
+008099.jpg,can not detect any boxes.
+008100.jpg,can not detect any boxes.
+008101.jpg,can not detect any boxes.
+008102.jpg,335,233,400,283
+008103.jpg,can not detect any boxes.
+008104.jpg,142,195,195,243
+008104.jpg,578,44,618,124
+008105.jpg,145,231,363,427
+008105.jpg,480,160,706,369
+008106.jpg,306,98,578,370
+008107.jpg,305,181,414,438
+008107.jpg,179,216,435,422
+008107.jpg,543,213,764,414
+008108.jpg,142,255,294,388
+008108.jpg,351,294,517,409
+008109.jpg,162,82,574,365
+008110.jpg,251,148,567,332
+008111.jpg,218,61,637,422
+008112.jpg,can not detect any boxes.
+008113.jpg,642,571,692,619
+008113.jpg,562,560,598,603
+008113.jpg,276,331,321,373
+008113.jpg,412,332,441,377
+008113.jpg,425,573,476,618
+008113.jpg,80,605,133,646
+008113.jpg,216,328,254,372
+008113.jpg,292,589,327,630
+008113.jpg,339,318,387,355
+008114.jpg,330,100,456,297
+008115.jpg,can not detect any boxes.
+008116.jpg,203,90,582,405
+008117.jpg,can not detect any boxes.
+008118.jpg,325,134,554,321
+008119.jpg,can not detect any boxes.
+008120.jpg,429,172,531,261
+008121.jpg,272,118,342,188
+008122.jpg,can not detect any boxes.
+008123.jpg,226,283,383,405
+008124.jpg,can not detect any boxes.
+008125.jpg,178,40,226,139
+008126.jpg,319,95,576,378
+008127.jpg,92,10,584,494
+008128.jpg,369,41,490,336
+008129.jpg,177,111,232,221
+008130.jpg,can not detect any boxes.
+008131.jpg,213,117,473,273
+008132.jpg,can not detect any boxes.
+008133.jpg,257,101,607,270
+008134.jpg,84,72,185,151
+008135.jpg,can not detect any boxes.
+008136.jpg,can not detect any boxes.
+008137.jpg,524,248,548,288
+008138.jpg,can not detect any boxes.
+008139.jpg,475,121,538,231
+008140.jpg,can not detect any boxes.
+008141.jpg,176,189,240,254
+008142.jpg,can not detect any boxes.
+008143.jpg,can not detect any boxes.
+008144.jpg,218,141,334,248
+008144.jpg,563,131,682,232
+008145.jpg,can not detect any boxes.
+008146.jpg,can not detect any boxes.
+008147.jpg,can not detect any boxes.
+008148.jpg,can not detect any boxes.
+008149.jpg,can not detect any boxes.
+008150.jpg,319,132,540,319
+008151.jpg,365,162,469,270
+008152.jpg,452,182,544,335
+008153.jpg,334,79,522,293
+008154.jpg,231,255,275,302
+008154.jpg,186,207,246,252
+008155.jpg,226,91,488,277
+008155.jpg,513,149,727,346
+008155.jpg,286,115,325,254
+008156.jpg,386,133,579,330
+008157.jpg,can not detect any boxes.
+008158.jpg,can not detect any boxes.
+008159.jpg,260,149,560,340
+008160.jpg,can not detect any boxes.
+008161.jpg,378,152,593,344
+008162.jpg,18,10,93,61
+008162.jpg,63,141,121,195
+008162.jpg,26,123,62,152
+008163.jpg,can not detect any boxes.
+008164.jpg,can not detect any boxes.
+008165.jpg,14,238,90,317
+008165.jpg,323,147,537,328
+008166.jpg,can not detect any boxes.
+008167.jpg,can not detect any boxes.
+008168.jpg,244,74,616,440
+008169.jpg,can not detect any boxes.
+008170.jpg,335,194,397,248
+008171.jpg,272,126,327,189
+008171.jpg,562,142,636,203
+008172.jpg,can not detect any boxes.
+008173.jpg,can not detect any boxes.
+008174.jpg,can not detect any boxes.
+008175.jpg,151,159,381,359
+008176.jpg,54,227,120,280
+008176.jpg,186,260,250,308
+008177.jpg,260,128,395,274
+008178.jpg,421,391,460,429
+008179.jpg,180,137,493,365
+008180.jpg,can not detect any boxes.
+008181.jpg,can not detect any boxes.
+008182.jpg,420,11,454,106
+008183.jpg,can not detect any boxes.
+008184.jpg,can not detect any boxes.
+008185.jpg,can not detect any boxes.
+008186.jpg,224,23,274,104
+008186.jpg,389,67,425,133
+008187.jpg,250,106,568,335
+008188.jpg,can not detect any boxes.
+008189.jpg,165,139,589,440
+008190.jpg,can not detect any boxes.
+008191.jpg,can not detect any boxes.
+008192.jpg,162,91,297,215
+008193.jpg,can not detect any boxes.
+008194.jpg,358,122,423,177
+008194.jpg,90,121,140,177
+008195.jpg,150,107,280,243
+008196.jpg,312,115,520,292
+008196.jpg,447,118,531,201
+008196.jpg,326,163,445,267
+008197.jpg,284,157,475,334
+008198.jpg,341,122,551,320
+008199.jpg,498,79,725,326
+008200.jpg,166,119,389,338
+008201.jpg,196,94,395,275
+008202.jpg,can not detect any boxes.
+008203.jpg,81,51,159,107
+008204.jpg,385,139,622,356
+008205.jpg,11,299,93,375
+008205.jpg,356,193,598,337
+008206.jpg,347,44,647,433
+008207.jpg,can not detect any boxes.
+008208.jpg,can not detect any boxes.
+008209.jpg,can not detect any boxes.
+008210.jpg,505,290,637,415
+008210.jpg,290,299,424,402
+008211.jpg,257,173,390,302
+008211.jpg,124,102,210,201
+008212.jpg,212,111,486,260
+008213.jpg,404,20,443,103
+008213.jpg,415,25,615,154
+008214.jpg,can not detect any boxes.
+008215.jpg,13,436,90,524
+008215.jpg,188,335,356,469
+008216.jpg,447,156,684,369
+008217.jpg,can not detect any boxes.
+008218.jpg,344,194,546,427
+008219.jpg,499,242,533,306
+008220.jpg,can not detect any boxes.
+008221.jpg,599,133,661,266
+008222.jpg,277,18,592,354
+008223.jpg,76,350,126,400
+008224.jpg,can not detect any boxes.
+008225.jpg,can not detect any boxes.
+008226.jpg,can not detect any boxes.
+008227.jpg,311,102,402,192
+008228.jpg,503,49,622,281
+008228.jpg,92,176,305,370
+008229.jpg,501,223,551,297
+008229.jpg,347,203,397,251
+008229.jpg,220,219,306,297
+008229.jpg,603,250,671,303
+008229.jpg,397,246,465,314
+008230.jpg,can not detect any boxes.
+008231.jpg,can not detect any boxes.
+008232.jpg,463,105,673,288
+008233.jpg,85,164,329,421
+008234.jpg,416,103,515,221
+008235.jpg,can not detect any boxes.
+008236.jpg,426,125,680,346
+008237.jpg,548,156,772,355
+008237.jpg,96,122,348,335
+008238.jpg,can not detect any boxes.
+008239.jpg,can not detect any boxes.
+008240.jpg,654,119,871,297
+008240.jpg,188,83,293,202
+008241.jpg,458,133,556,256
+008242.jpg,291,153,374,220
+008243.jpg,124,112,461,494
+008244.jpg,258,211,269,227
+008245.jpg,228,119,381,261
+008246.jpg,242,200,429,399
+008247.jpg,can not detect any boxes.
+008248.jpg,can not detect any boxes.
+008249.jpg,can not detect any boxes.
+008250.jpg,can not detect any boxes.
+008251.jpg,can not detect any boxes.
+008252.jpg,368,199,591,398
+008253.jpg,288,156,398,253
+008254.jpg,153,172,376,313
+008255.jpg,436,184,540,388
+008255.jpg,311,108,394,189
+008256.jpg,222,197,393,342
+008257.jpg,178,150,371,317
+008258.jpg,250,198,417,366
+008259.jpg,can not detect any boxes.
+008260.jpg,87,44,130,81
+008261.jpg,226,103,296,163
+008262.jpg,405,794,440,844
+008262.jpg,102,208,269,428
+008263.jpg,268,85,446,226
+008264.jpg,can not detect any boxes.
+008265.jpg,353,172,561,378
+008266.jpg,182,86,372,228
+008267.jpg,102,70,183,139
+008268.jpg,334,209,558,430
+008268.jpg,533,87,746,270
+008268.jpg,671,282,883,472
+008269.jpg,915,281,1059,423
+008270.jpg,196,191,231,234
+008270.jpg,19,223,63,268
+008271.jpg,286,75,607,399
+008272.jpg,can not detect any boxes.
+008273.jpg,can not detect any boxes.
+008274.jpg,0,175,154,312
+008274.jpg,388,99,453,167
+008275.jpg,can not detect any boxes.
+008276.jpg,218,140,516,373
+008277.jpg,can not detect any boxes.
+008278.jpg,can not detect any boxes.
+008279.jpg,242,71,308,139
+008280.jpg,can not detect any boxes.
+008281.jpg,175,66,488,415
+008281.jpg,679,323,770,419
+008282.jpg,177,174,228,221
+008282.jpg,4,254,148,400
+008282.jpg,273,152,473,317
+008283.jpg,can not detect any boxes.
+008284.jpg,37,48,209,198
+008285.jpg,can not detect any boxes.
+008286.jpg,can not detect any boxes.
+008287.jpg,can not detect any boxes.
+008288.jpg,364,39,586,204
+008289.jpg,283,109,304,161
+008289.jpg,186,80,225,122
+008289.jpg,131,53,151,100
+008290.jpg,210,107,485,263
+008291.jpg,276,165,322,245
+008292.jpg,can not detect any boxes.
+008293.jpg,can not detect any boxes.
+008294.jpg,467,67,581,327
+008295.jpg,471,382,599,460
+008296.jpg,can not detect any boxes.
+008297.jpg,can not detect any boxes.
+008298.jpg,can not detect any boxes.
+008299.jpg,295,80,681,391
+008300.jpg,254,157,280,197
+008301.jpg,can not detect any boxes.
+008302.jpg,can not detect any boxes.
+008303.jpg,473,335,577,419
+008303.jpg,154,290,329,411
+008304.jpg,340,143,542,348
+008305.jpg,can not detect any boxes.
+008306.jpg,496,63,822,392
+008306.jpg,168,217,288,316
+008307.jpg,390,209,488,278
+008308.jpg,109,95,415,388
+008309.jpg,can not detect any boxes.
+008310.jpg,can not detect any boxes.
+008311.jpg,can not detect any boxes.
+008312.jpg,can not detect any boxes.
+008313.jpg,can not detect any boxes.
+008314.jpg,439,96,572,228
+008315.jpg,can not detect any boxes.
+008316.jpg,301,112,519,281
+008317.jpg,can not detect any boxes.
+008318.jpg,can not detect any boxes.
+008319.jpg,356,224,508,363
+008320.jpg,can not detect any boxes.
+008321.jpg,48,44,71,81
+008322.jpg,can not detect any boxes.
+008323.jpg,280,58,443,223
+008324.jpg,294,199,602,396
+008325.jpg,245,245,418,387
+008325.jpg,78,181,233,330
+008326.jpg,399,186,413,203
+008326.jpg,395,177,417,203
+008327.jpg,can not detect any boxes.
+008328.jpg,220,115,356,252
+008329.jpg,131,217,198,274
+008329.jpg,636,187,731,278
+008330.jpg,can not detect any boxes.
+008331.jpg,can not detect any boxes.
+008332.jpg,can not detect any boxes.
+008333.jpg,146,63,166,87
+008334.jpg,464,129,503,179
+008335.jpg,306,220,573,416
+008336.jpg,435,130,492,192
+008337.jpg,can not detect any boxes.
+008338.jpg,174,73,261,146
+008339.jpg,can not detect any boxes.
+008340.jpg,286,126,374,324
+008340.jpg,175,136,257,215
+008341.jpg,197,135,442,426
+008342.jpg,can not detect any boxes.
+008343.jpg,327,69,515,251
+008343.jpg,59,286,256,467
+008344.jpg,310,159,457,296
+008345.jpg,547,292,578,326
+008346.jpg,can not detect any boxes.
+008347.jpg,can not detect any boxes.
+008348.jpg,164,126,268,256
+008349.jpg,100,89,324,408
+008350.jpg,427,195,491,257
+008351.jpg,215,202,262,238
+008351.jpg,326,197,378,243
+008352.jpg,145,135,355,312
+008352.jpg,446,163,684,339
+008353.jpg,can not detect any boxes.
+008354.jpg,can not detect any boxes.
+008355.jpg,250,55,657,451
+008356.jpg,636,242,856,498
+008356.jpg,279,219,447,367
+008357.jpg,370,198,410,275
+008357.jpg,239,168,304,236
+008358.jpg,206,125,436,269
+008359.jpg,can not detect any boxes.
+008360.jpg,587,200,780,395
+008361.jpg,219,53,269,189
+008361.jpg,465,172,512,287
+008362.jpg,469,130,520,244
+008363.jpg,can not detect any boxes.
+008364.jpg,can not detect any boxes.
+008365.jpg,can not detect any boxes.
+008366.jpg,239,137,388,282
+008366.jpg,56,177,122,238
+008367.jpg,can not detect any boxes.
+008368.jpg,can not detect any boxes.
+008369.jpg,can not detect any boxes.
+008370.jpg,can not detect any boxes.
+008371.jpg,444,312,923,625
+008372.jpg,can not detect any boxes.
+008373.jpg,can not detect any boxes.
+008374.jpg,can not detect any boxes.
+008375.jpg,can not detect any boxes.
+008376.jpg,295,143,317,168
+008376.jpg,489,195,526,247
+008377.jpg,14,55,194,217
+008377.jpg,537,126,703,318
+008378.jpg,45,135,199,282
+008379.jpg,can not detect any boxes.
+008380.jpg,can not detect any boxes.
+008381.jpg,can not detect any boxes.
+008382.jpg,327,139,372,197
+008382.jpg,148,138,228,210
+008383.jpg,218,131,484,352
+008384.jpg,385,92,425,135
+008385.jpg,can not detect any boxes.
+008386.jpg,425,60,570,185
+008386.jpg,103,89,271,261
+008387.jpg,244,218,285,264
+008387.jpg,160,176,227,255
+008388.jpg,465,406,513,497
+008389.jpg,551,63,846,430
+008390.jpg,191,152,341,282
+008391.jpg,can not detect any boxes.
+008392.jpg,252,236,290,305
+008393.jpg,207,213,261,258
+008394.jpg,92,226,132,259
+008394.jpg,134,108,187,174
+008395.jpg,can not detect any boxes.
+008396.jpg,114,0,515,480
+008397.jpg,100,151,338,339
+008398.jpg,197,98,248,145
+008399.jpg,can not detect any boxes.
+008400.jpg,can not detect any boxes.
+008401.jpg,44,274,125,358
+008402.jpg,384,130,480,262
+008403.jpg,212,240,382,377
+008404.jpg,can not detect any boxes.
+008405.jpg,can not detect any boxes.
+008406.jpg,267,131,454,339
+008407.jpg,217,127,537,340
+008408.jpg,311,113,540,290
+008409.jpg,525,420,556,459
+008409.jpg,371,369,448,450
+008410.jpg,55,111,283,289
+008411.jpg,can not detect any boxes.
+008412.jpg,444,103,579,222
+008413.jpg,265,84,437,251
+008414.jpg,363,313,383,342
+008415.jpg,can not detect any boxes.
+008416.jpg,215,121,294,184
+008417.jpg,can not detect any boxes.
+008418.jpg,154,97,248,166
+008419.jpg,291,94,515,299
+008420.jpg,152,50,364,214
+008421.jpg,can not detect any boxes.
+008422.jpg,413,168,471,219
+008423.jpg,187,259,234,355
+008424.jpg,can not detect any boxes.
+008425.jpg,225,191,442,376
+008426.jpg,186,132,387,328
+008426.jpg,363,172,494,289
+008427.jpg,323,51,382,103
+008428.jpg,214,169,338,260
+008428.jpg,492,304,564,382
+008429.jpg,357,81,384,145
+008430.jpg,134,0,711,480
+008431.jpg,21,134,46,166
+008432.jpg,can not detect any boxes.
+008433.jpg,236,148,268,182
+008433.jpg,298,73,333,104
+008433.jpg,87,107,151,171
+008434.jpg,670,216,851,388
+008435.jpg,134,141,257,261
+008435.jpg,691,133,818,252
+008435.jpg,414,152,536,251
+008436.jpg,283,138,532,333
+008437.jpg,285,138,397,247
+008438.jpg,380,215,426,269
+008439.jpg,504,198,576,257
+008439.jpg,177,245,216,304
+008439.jpg,390,39,462,96
+008440.jpg,403,102,549,239
+008441.jpg,can not detect any boxes.
+008442.jpg,can not detect any boxes.
+008443.jpg,387,126,529,262
+008444.jpg,can not detect any boxes.
+008445.jpg,333,97,555,299
+008446.jpg,can not detect any boxes.
+008447.jpg,332,156,384,244
+008447.jpg,619,96,662,188
+008447.jpg,24,77,107,172
+008448.jpg,can not detect any boxes.
+008449.jpg,267,160,597,381
+008450.jpg,can not detect any boxes.
+008451.jpg,378,12,498,131
+008452.jpg,can not detect any boxes.
+008453.jpg,211,206,270,280
+008454.jpg,73,254,140,322
+008455.jpg,499,120,853,420
+008456.jpg,287,112,526,282
+008457.jpg,can not detect any boxes.
+008458.jpg,can not detect any boxes.
+008459.jpg,201,203,330,315
+008459.jpg,103,111,226,225
+008460.jpg,can not detect any boxes.
+008461.jpg,208,124,295,221
+008462.jpg,495,155,595,290
+008463.jpg,can not detect any boxes.
+008464.jpg,can not detect any boxes.
+008465.jpg,291,163,375,249
+008466.jpg,15,183,289,433
+008466.jpg,358,103,640,374
+008467.jpg,can not detect any boxes.
+008468.jpg,can not detect any boxes.
+008469.jpg,can not detect any boxes.
+008470.jpg,can not detect any boxes.
+008471.jpg,can not detect any boxes.
+008472.jpg,can not detect any boxes.
+008473.jpg,134,33,264,159
+008474.jpg,98,188,277,330
+008475.jpg,216,155,541,366
+008476.jpg,can not detect any boxes.
+008477.jpg,can not detect any boxes.
+008478.jpg,249,136,502,356
+008479.jpg,can not detect any boxes.
+008480.jpg,can not detect any boxes.
+008481.jpg,155,229,322,399
+008482.jpg,322,159,390,228
+008483.jpg,can not detect any boxes.
+008484.jpg,141,74,401,423
+008485.jpg,306,88,552,272
+008486.jpg,can not detect any boxes.
+008487.jpg,can not detect any boxes.
+008488.jpg,124,144,302,325
+008489.jpg,376,191,499,294
+008490.jpg,144,100,259,266
+008491.jpg,can not detect any boxes.
+008492.jpg,211,108,510,272
+008493.jpg,can not detect any boxes.
+008494.jpg,320,199,541,387
+008495.jpg,12,103,84,166
+008495.jpg,111,104,189,164
+008496.jpg,226,118,320,299
+008497.jpg,107,56,225,150
+008498.jpg,can not detect any boxes.
+008499.jpg,201,188,239,233
+008500.jpg,239,230,328,330
+008501.jpg,206,250,444,410
+008501.jpg,0,242,226,419
+008502.jpg,320,155,484,281
+008502.jpg,76,175,227,313
+008503.jpg,can not detect any boxes.
+008504.jpg,can not detect any boxes.
+008505.jpg,71,260,221,408
+008505.jpg,275,189,442,325
+008506.jpg,can not detect any boxes.
+008507.jpg,can not detect any boxes.
+008508.jpg,can not detect any boxes.
+008509.jpg,can not detect any boxes.
+008510.jpg,can not detect any boxes.
+008511.jpg,27,298,143,400
+008511.jpg,258,80,355,180
+008512.jpg,138,343,165,394
+008512.jpg,234,317,321,394
+008512.jpg,509,321,567,371
+008512.jpg,354,267,399,301
+008512.jpg,88,264,142,309
+008513.jpg,81,252,125,295
+008513.jpg,182,341,226,387
+008514.jpg,can not detect any boxes.
+008515.jpg,134,124,279,263
+008516.jpg,can not detect any boxes.
+008517.jpg,can not detect any boxes.
+008518.jpg,379,114,431,225
+008519.jpg,132,71,215,142
+008520.jpg,can not detect any boxes.
+008521.jpg,340,207,420,301
+008522.jpg,353,76,480,310
+008523.jpg,can not detect any boxes.
+008524.jpg,301,62,373,139
+008524.jpg,164,97,242,173
+008525.jpg,can not detect any boxes.
+008526.jpg,70,164,477,451
+008527.jpg,can not detect any boxes.
+008528.jpg,can not detect any boxes.
+008529.jpg,342,136,546,341
+008530.jpg,112,277,145,299
+008531.jpg,369,81,435,147
+008532.jpg,104,69,344,332
+008533.jpg,can not detect any boxes.
+008534.jpg,159,38,213,140
+008535.jpg,can not detect any boxes.
+008536.jpg,254,39,586,451
+008537.jpg,487,281,527,315
+008538.jpg,234,258,446,444
+008539.jpg,can not detect any boxes.
+008540.jpg,can not detect any boxes.
+008541.jpg,can not detect any boxes.
+008542.jpg,604,149,649,233
+008543.jpg,537,139,743,361
+008543.jpg,273,286,341,342
+008543.jpg,164,246,237,300
+008544.jpg,95,40,576,504
+008545.jpg,can not detect any boxes.
+008546.jpg,can not detect any boxes.
+008547.jpg,can not detect any boxes.
+008548.jpg,169,231,401,369
+008549.jpg,206,195,457,415
+008549.jpg,486,133,714,328
+008550.jpg,345,276,389,311
+008550.jpg,276,225,332,274
+008551.jpg,224,532,301,595
+008551.jpg,272,95,576,414
+008552.jpg,147,123,303,251
+008552.jpg,391,229,456,308
+008553.jpg,440,254,539,360
+008554.jpg,63,115,220,261
+008555.jpg,can not detect any boxes.
+008556.jpg,389,162,519,297
+008557.jpg,can not detect any boxes.
+008558.jpg,452,59,569,332
+008559.jpg,139,64,494,447
+008560.jpg,26,135,75,188
+008560.jpg,164,204,201,244
+008560.jpg,169,13,270,91
+008561.jpg,can not detect any boxes.
+008562.jpg,can not detect any boxes.
+008563.jpg,254,167,453,334
+008564.jpg,can not detect any boxes.
+008565.jpg,194,150,424,310
+008566.jpg,94,163,348,418
+008567.jpg,26,300,76,406
+008568.jpg,can not detect any boxes.
+008569.jpg,115,276,180,345
+008570.jpg,can not detect any boxes.
+008571.jpg,408,412,466,463
+008571.jpg,298,250,482,433
+008572.jpg,205,128,454,353
+008573.jpg,can not detect any boxes.
+008574.jpg,can not detect any boxes.
+008575.jpg,can not detect any boxes.
+008576.jpg,can not detect any boxes.
+008577.jpg,356,105,408,213
+008578.jpg,725,172,750,204
+008578.jpg,936,676,989,740
+008578.jpg,567,687,615,758
+008579.jpg,can not detect any boxes.
+008580.jpg,can not detect any boxes.
+008581.jpg,295,123,440,262
+008582.jpg,can not detect any boxes.
+008583.jpg,can not detect any boxes.
+008584.jpg,309,161,382,230
+008585.jpg,98,73,195,188
+008586.jpg,121,259,173,311
+008586.jpg,16,197,111,276
+008587.jpg,can not detect any boxes.
+008588.jpg,169,125,186,161
+008588.jpg,84,119,110,145
+008589.jpg,can not detect any boxes.
+008590.jpg,can not detect any boxes.
+008591.jpg,can not detect any boxes.
+008592.jpg,can not detect any boxes.
+008593.jpg,403,240,458,288
+008594.jpg,can not detect any boxes.
+008595.jpg,308,150,581,469
+008596.jpg,324,218,411,300
+008596.jpg,459,223,551,318
+008597.jpg,can not detect any boxes.
+008598.jpg,can not detect any boxes.
+008599.jpg,365,85,538,257
+008600.jpg,124,126,266,293
+008601.jpg,35,61,129,191
+008601.jpg,199,107,274,176
+008602.jpg,213,180,397,311
+008603.jpg,160,172,463,354
+008604.jpg,can not detect any boxes.
+008605.jpg,12,121,60,164
+008605.jpg,190,195,270,275
+008605.jpg,67,253,187,332
+008606.jpg,96,200,242,328
+008607.jpg,can not detect any boxes.
+008608.jpg,421,68,637,276
+008609.jpg,39,25,112,103
+008610.jpg,445,73,778,393
+008611.jpg,can not detect any boxes.
+008612.jpg,286,222,349,391
+008612.jpg,251,187,373,411
+008613.jpg,254,162,379,266
+008614.jpg,282,101,375,203
+008615.jpg,can not detect any boxes.
+008616.jpg,66,100,174,167
+008617.jpg,302,289,345,355
+008617.jpg,138,218,220,274
+008618.jpg,381,107,420,211
+008619.jpg,669,218,728,277
+008619.jpg,618,143,659,195
+008619.jpg,408,236,461,284
+008620.jpg,can not detect any boxes.
+008621.jpg,can not detect any boxes.
+008622.jpg,322,127,551,356
+008623.jpg,can not detect any boxes.
+008624.jpg,can not detect any boxes.
+008625.jpg,530,179,743,360
+008626.jpg,can not detect any boxes.
+008627.jpg,486,187,680,417
+008628.jpg,206,0,756,464
+008629.jpg,258,251,312,297
+008630.jpg,437,304,498,357
+008630.jpg,356,306,416,356
+008631.jpg,can not detect any boxes.
+008632.jpg,331,129,529,272
+008633.jpg,can not detect any boxes.
+008634.jpg,201,75,406,232
+008635.jpg,can not detect any boxes.
+008636.jpg,118,97,237,366
+008636.jpg,407,72,508,332
+008637.jpg,can not detect any boxes.
+008638.jpg,can not detect any boxes.
+008639.jpg,can not detect any boxes.
+008640.jpg,can not detect any boxes.
+008641.jpg,can not detect any boxes.
+008642.jpg,435,348,502,406
+008643.jpg,321,0,533,141
+008644.jpg,279,180,322,227
+008644.jpg,186,222,245,269
+008645.jpg,259,82,469,376
+008646.jpg,can not detect any boxes.
+008647.jpg,453,353,546,444
+008648.jpg,can not detect any boxes.
+008649.jpg,can not detect any boxes.
+008650.jpg,170,189,349,353
+008651.jpg,183,136,311,238
+008652.jpg,484,101,735,309
+008653.jpg,can not detect any boxes.
+008654.jpg,355,164,582,352
+008655.jpg,can not detect any boxes.
+008656.jpg,can not detect any boxes.
+008657.jpg,can not detect any boxes.
+008658.jpg,107,118,484,390
+008659.jpg,737,278,863,386
+008659.jpg,176,249,324,371
+008659.jpg,436,286,587,381
+008659.jpg,397,201,622,422
+008660.jpg,352,149,586,345
+008661.jpg,511,289,538,323
+008661.jpg,118,272,131,296
+008661.jpg,516,296,532,316
+008661.jpg,339,162,365,200
+008661.jpg,197,285,213,306
+008662.jpg,can not detect any boxes.
+008663.jpg,can not detect any boxes.
+008664.jpg,267,105,463,305
+008665.jpg,329,136,589,372
+008666.jpg,97,85,197,152
+008667.jpg,can not detect any boxes.
+008668.jpg,666,212,797,320
+008669.jpg,can not detect any boxes.
+008670.jpg,can not detect any boxes.
+008671.jpg,147,141,235,230
+008672.jpg,can not detect any boxes.
+008673.jpg,can not detect any boxes.
+008674.jpg,can not detect any boxes.
+008675.jpg,234,95,537,316
+008676.jpg,80,85,296,291
+008677.jpg,can not detect any boxes.
+008678.jpg,can not detect any boxes.
+008679.jpg,353,99,533,259
+008680.jpg,320,102,618,342
+008681.jpg,can not detect any boxes.
+008682.jpg,can not detect any boxes.
+008683.jpg,can not detect any boxes.
+008684.jpg,can not detect any boxes.
+008685.jpg,349,212,503,351
+008686.jpg,can not detect any boxes.
+008687.jpg,can not detect any boxes.
+008688.jpg,can not detect any boxes.
+008689.jpg,can not detect any boxes.
+008690.jpg,188,226,374,369
+008691.jpg,can not detect any boxes.
+008692.jpg,389,142,592,339
+008693.jpg,230,195,324,300
+008694.jpg,75,120,252,286
+008695.jpg,can not detect any boxes.
+008696.jpg,280,148,626,382
+008697.jpg,can not detect any boxes.
+008698.jpg,187,270,285,362
+008699.jpg,can not detect any boxes.
+008700.jpg,can not detect any boxes.
+008701.jpg,can not detect any boxes.
+008702.jpg,can not detect any boxes.
+008703.jpg,can not detect any boxes.
+008704.jpg,222,136,342,261
+008705.jpg,69,39,196,130
+008706.jpg,108,108,178,167
+008706.jpg,11,112,84,166
+008707.jpg,81,77,181,166
+008708.jpg,159,90,369,243
+008709.jpg,470,104,685,363
+008710.jpg,637,110,686,208
+008711.jpg,can not detect any boxes.
+008712.jpg,can not detect any boxes.
+008713.jpg,117,164,236,294
+008713.jpg,485,269,583,371
+008714.jpg,183,114,470,354
+008715.jpg,68,123,177,242
+008716.jpg,can not detect any boxes.
+008717.jpg,481,163,582,265
+008718.jpg,can not detect any boxes.
+008719.jpg,can not detect any boxes.
+008720.jpg,can not detect any boxes.
+008721.jpg,457,156,489,210
+008722.jpg,can not detect any boxes.
+008723.jpg,can not detect any boxes.
+008724.jpg,568,289,677,374
+008725.jpg,can not detect any boxes.
+008726.jpg,288,91,344,135
+008727.jpg,can not detect any boxes.
+008728.jpg,can not detect any boxes.
+008729.jpg,can not detect any boxes.
+008730.jpg,can not detect any boxes.
+008731.jpg,can not detect any boxes.
+008732.jpg,179,115,547,372
+008733.jpg,192,179,273,236
+008733.jpg,442,216,484,250
+008733.jpg,503,214,539,257
+008734.jpg,231,197,425,338
+008735.jpg,335,111,537,317
+008736.jpg,can not detect any boxes.
+008737.jpg,150,6,696,473
+008738.jpg,524,325,566,375
+008739.jpg,can not detect any boxes.
+008740.jpg,can not detect any boxes.
+008741.jpg,521,163,568,205
+008742.jpg,can not detect any boxes.
+008743.jpg,can not detect any boxes.
+008744.jpg,can not detect any boxes.
+008745.jpg,can not detect any boxes.
+008746.jpg,can not detect any boxes.
+008747.jpg,can not detect any boxes.
+008748.jpg,531,94,655,304
+008749.jpg,87,158,271,283
+008750.jpg,292,117,482,331
+008751.jpg,106,194,313,389
+008751.jpg,321,107,568,281
+008752.jpg,388,174,628,366
+008753.jpg,can not detect any boxes.
+008754.jpg,can not detect any boxes.
+008755.jpg,302,73,530,269
+008756.jpg,23,157,79,206
+008757.jpg,can not detect any boxes.
+008758.jpg,can not detect any boxes.
+008759.jpg,225,134,496,348
+008760.jpg,61,242,231,381
+008760.jpg,328,213,412,396
+008760.jpg,107,288,200,379
+008760.jpg,352,247,397,371
+008761.jpg,283,100,398,229
+008762.jpg,392,66,624,254
+008763.jpg,can not detect any boxes.
+008764.jpg,can not detect any boxes.
+008765.jpg,375,135,414,226
+008765.jpg,199,168,245,254
+008766.jpg,212,169,316,276
+008767.jpg,509,134,740,301
+008768.jpg,340,123,585,338
+008769.jpg,can not detect any boxes.
+008770.jpg,299,215,339,317
+008771.jpg,can not detect any boxes.
+008772.jpg,322,93,556,300
+008773.jpg,300,63,736,419
+008774.jpg,can not detect any boxes.
+008775.jpg,can not detect any boxes.
+008776.jpg,can not detect any boxes.
+008777.jpg,642,43,853,222
+008778.jpg,337,66,401,132
+008779.jpg,can not detect any boxes.
+008780.jpg,194,146,363,309
+008781.jpg,411,179,549,260
+008782.jpg,342,239,384,331
+008783.jpg,298,234,743,504
+008784.jpg,38,394,99,454
+008784.jpg,422,336,498,423
+008784.jpg,526,387,587,455
+008785.jpg,249,127,468,271
+008786.jpg,551,159,593,210
+008787.jpg,268,112,337,182
+008788.jpg,277,262,315,307
+008788.jpg,451,194,508,240
+008788.jpg,341,206,395,252
+008789.jpg,can not detect any boxes.
+008790.jpg,can not detect any boxes.
+008791.jpg,181,121,347,275
+008792.jpg,148,155,201,211
+008793.jpg,197,207,273,305
+008794.jpg,85,143,401,358
+008795.jpg,can not detect any boxes.
+008796.jpg,353,202,438,302
+008796.jpg,397,87,575,217
+008797.jpg,77,121,341,339
+008798.jpg,can not detect any boxes.
+008799.jpg,284,124,582,468
+008800.jpg,394,153,569,333
+008801.jpg,can not detect any boxes.
+008802.jpg,421,223,452,264
+008803.jpg,340,181,609,412
+008804.jpg,282,178,341,235
+008805.jpg,357,98,514,342
+008806.jpg,can not detect any boxes.
+008807.jpg,can not detect any boxes.
+008808.jpg,434,105,554,212
+008808.jpg,121,74,168,179
+008809.jpg,181,224,227,296
+008809.jpg,345,147,447,222
+008810.jpg,168,279,203,340
+008811.jpg,379,88,495,259
+008811.jpg,413,120,469,272
+008812.jpg,184,115,489,374
+008813.jpg,253,87,296,178
+008814.jpg,can not detect any boxes.
+008815.jpg,336,60,457,164
+008816.jpg,can not detect any boxes.
+008817.jpg,131,64,241,190
+008818.jpg,260,77,424,333
+008819.jpg,644,194,799,293
+008820.jpg,can not detect any boxes.
+008821.jpg,can not detect any boxes.
+008822.jpg,151,69,414,303
+008823.jpg,can not detect any boxes.
+008824.jpg,317,71,452,323
+008825.jpg,245,70,496,294
+008826.jpg,310,136,404,245
+008827.jpg,218,140,564,444
+008828.jpg,382,114,436,218
+008829.jpg,333,130,386,258
+008830.jpg,can not detect any boxes.
+008831.jpg,165,268,365,408
+008832.jpg,521,244,577,342
+008832.jpg,204,145,383,328
+008833.jpg,can not detect any boxes.
+008834.jpg,can not detect any boxes.
+008835.jpg,can not detect any boxes.
+008836.jpg,can not detect any boxes.
+008837.jpg,can not detect any boxes.
+008838.jpg,can not detect any boxes.
+008839.jpg,590,230,750,353
+008840.jpg,can not detect any boxes.
+008841.jpg,108,139,263,298
+008842.jpg,241,81,448,287
+008843.jpg,can not detect any boxes.
+008844.jpg,can not detect any boxes.
+008845.jpg,can not detect any boxes.
+008846.jpg,can not detect any boxes.
+008847.jpg,can not detect any boxes.
+008848.jpg,269,138,290,156
+008848.jpg,178,106,216,139
+008848.jpg,10,184,32,202
+008849.jpg,129,99,342,317
+008850.jpg,544,79,647,204
+008850.jpg,269,114,335,241
+008850.jpg,581,95,628,218
+008851.jpg,224,66,300,290
+008852.jpg,can not detect any boxes.
+008853.jpg,96,104,435,371
+008854.jpg,643,88,685,148
+008855.jpg,69,51,142,117
+008856.jpg,219,289,270,325
+008857.jpg,231,74,596,405
+008858.jpg,can not detect any boxes.
+008859.jpg,650,580,752,680
+008859.jpg,175,183,250,249
+008859.jpg,424,66,573,207
+008859.jpg,511,419,644,560
+008859.jpg,168,312,404,534
+008860.jpg,293,167,336,273
+008861.jpg,544,143,728,332
+008861.jpg,291,138,509,331
+008862.jpg,192,203,250,267
+008863.jpg,330,158,366,197
+008864.jpg,272,137,466,326
+008865.jpg,201,178,280,265
+008866.jpg,can not detect any boxes.
+008867.jpg,can not detect any boxes.
+008868.jpg,252,231,445,379
+008869.jpg,can not detect any boxes.
+008870.jpg,221,118,232,137
+008870.jpg,23,16,44,40
+008871.jpg,can not detect any boxes.
+008872.jpg,298,166,579,343
+008873.jpg,638,244,684,312
+008873.jpg,422,173,466,261
+008873.jpg,286,96,317,169
+008874.jpg,113,132,301,274
+008875.jpg,177,118,257,206
+008876.jpg,469,149,649,325
+008877.jpg,276,128,431,271
+008878.jpg,199,207,382,329
+008879.jpg,145,118,271,221
+008880.jpg,96,39,520,432
+008881.jpg,can not detect any boxes.
+008882.jpg,9,254,49,287
+008883.jpg,230,136,253,170
+008884.jpg,can not detect any boxes.
+008885.jpg,271,124,535,480
+008886.jpg,448,4,571,130
+008887.jpg,can not detect any boxes.
+008888.jpg,400,140,415,162
+008889.jpg,can not detect any boxes.
+008890.jpg,can not detect any boxes.
+008891.jpg,522,109,571,192
+008892.jpg,222,233,237,258
+008893.jpg,160,165,446,419
+008894.jpg,can not detect any boxes.
+008895.jpg,can not detect any boxes.
+008896.jpg,226,96,446,276
+008897.jpg,can not detect any boxes.
+008898.jpg,can not detect any boxes.
+008899.jpg,595,528,741,704
+008900.jpg,can not detect any boxes.
+008901.jpg,can not detect any boxes.
+008902.jpg,can not detect any boxes.
+008903.jpg,119,166,293,409
+008904.jpg,can not detect any boxes.
+008905.jpg,293,297,309,314
+008905.jpg,236,95,256,134
+008905.jpg,171,172,199,195
+008906.jpg,178,129,339,280
+008907.jpg,258,157,284,190
+008908.jpg,can not detect any boxes.
+008909.jpg,can not detect any boxes.
+008910.jpg,312,28,342,71
+008911.jpg,220,153,247,188
+008911.jpg,152,106,201,144
+008912.jpg,478,193,580,328
+008913.jpg,can not detect any boxes.
+008914.jpg,262,127,433,307
+008915.jpg,can not detect any boxes.
+008916.jpg,132,108,276,253
+008917.jpg,428,88,616,232
+008918.jpg,130,113,143,137
+008918.jpg,27,114,90,157
+008918.jpg,40,124,86,146
+008919.jpg,241,68,633,504
+008920.jpg,401,106,602,295
+008921.jpg,425,90,451,136
+008922.jpg,can not detect any boxes.
+008923.jpg,205,62,372,197
+008924.jpg,can not detect any boxes.
+008925.jpg,426,214,495,279
+008926.jpg,can not detect any boxes.
+008927.jpg,can not detect any boxes.
+008928.jpg,49,78,70,102
+008928.jpg,178,51,201,76
+008928.jpg,79,22,95,46
+008928.jpg,105,96,132,122
+008929.jpg,can not detect any boxes.
+008930.jpg,can not detect any boxes.
+008931.jpg,can not detect any boxes.
+008932.jpg,15,122,33,136
+008933.jpg,can not detect any boxes.
+008934.jpg,324,93,604,300
+008935.jpg,333,116,557,285
+008936.jpg,can not detect any boxes.
+008937.jpg,can not detect any boxes.
+008938.jpg,can not detect any boxes.
+008939.jpg,320,13,442,241
+008940.jpg,120,194,256,327
+008940.jpg,286,63,517,274
+008941.jpg,341,45,448,148
+008941.jpg,174,168,202,193
+008942.jpg,can not detect any boxes.
+008943.jpg,212,116,398,249
+008944.jpg,458,110,663,290
+008945.jpg,127,106,280,263
+008945.jpg,316,129,502,274
+008946.jpg,327,247,352,269
+008946.jpg,99,74,127,94
+008947.jpg,51,356,135,433
+008947.jpg,180,80,241,149
+008947.jpg,359,110,436,173
+008948.jpg,191,120,295,231
+008948.jpg,259,210,333,349
+008949.jpg,can not detect any boxes.
+008950.jpg,278,232,550,403
+008951.jpg,can not detect any boxes.
+008952.jpg,can not detect any boxes.
+008953.jpg,225,142,452,276
+008954.jpg,337,154,500,292
+008955.jpg,can not detect any boxes.
+008956.jpg,can not detect any boxes.
+008957.jpg,174,200,276,329
+008958.jpg,121,36,531,439
+008959.jpg,can not detect any boxes.
+008960.jpg,172,112,255,276
+008961.jpg,can not detect any boxes.
+008962.jpg,can not detect any boxes.
+008963.jpg,233,77,490,268
+008964.jpg,305,160,517,334
+008965.jpg,180,264,236,319
+008966.jpg,can not detect any boxes.
+008967.jpg,can not detect any boxes.
+008968.jpg,can not detect any boxes.
+008969.jpg,375,81,634,272
+008970.jpg,73,287,217,389
+008971.jpg,186,124,364,314
+008972.jpg,can not detect any boxes.
+008973.jpg,can not detect any boxes.
+008974.jpg,can not detect any boxes.
+008975.jpg,351,197,418,262
+008975.jpg,255,201,321,270
+008976.jpg,316,111,538,389
+008977.jpg,can not detect any boxes.
+008978.jpg,can not detect any boxes.
+008979.jpg,can not detect any boxes.
+008980.jpg,206,348,239,376
+008981.jpg,222,61,324,379
+008981.jpg,442,157,693,373
+008982.jpg,296,139,564,355
+008983.jpg,can not detect any boxes.
+008984.jpg,can not detect any boxes.
+008985.jpg,240,44,350,167
+008985.jpg,274,60,324,180
+008986.jpg,can not detect any boxes.
+008987.jpg,can not detect any boxes.
+008988.jpg,can not detect any boxes.
+008989.jpg,245,86,572,480
+008990.jpg,can not detect any boxes.
+008991.jpg,can not detect any boxes.
+008992.jpg,299,478,1011,1182
+008992.jpg,299,478,1011,1182
+008993.jpg,686,210,783,329
+008993.jpg,177,116,392,339
+008993.jpg,487,244,588,366
+008994.jpg,411,54,618,221
+008995.jpg,140,34,615,474
+008996.jpg,258,61,411,208
+008997.jpg,143,250,191,342
+008998.jpg,318,79,523,280
+008999.jpg,can not detect any boxes.
+009000.jpg,can not detect any boxes.
+009001.jpg,570,241,686,378
+009002.jpg,238,265,364,389
+009003.jpg,can not detect any boxes.
+009004.jpg,can not detect any boxes.
+009005.jpg,can not detect any boxes.
+009006.jpg,316,188,519,355
+009007.jpg,372,184,463,271
+009008.jpg,can not detect any boxes.
+009009.jpg,270,310,394,464
+009010.jpg,can not detect any boxes.
+009011.jpg,235,214,293,266
+009012.jpg,187,237,465,448
+009013.jpg,can not detect any boxes.
+009014.jpg,215,102,657,504
+009015.jpg,483,105,601,237
+009016.jpg,325,85,565,301
+009017.jpg,can not detect any boxes.
+009018.jpg,248,146,388,293
+009019.jpg,can not detect any boxes.
+009020.jpg,can not detect any boxes.
+009021.jpg,can not detect any boxes.
+009022.jpg,228,103,394,246
+009023.jpg,248,212,429,384
+009023.jpg,510,288,632,370
+009024.jpg,can not detect any boxes.
+009025.jpg,180,97,270,162
+009026.jpg,840,432,868,460
+009026.jpg,251,57,610,422
+009027.jpg,362,80,504,315
+009028.jpg,329,149,581,361
+009029.jpg,can not detect any boxes.
+009030.jpg,can not detect any boxes.
+009031.jpg,can not detect any boxes.
+009032.jpg,484,121,741,323
+009032.jpg,218,175,318,287
+009033.jpg,can not detect any boxes.
+009034.jpg,385,212,414,251
+009034.jpg,263,208,303,296
+009035.jpg,532,131,713,419
+009036.jpg,can not detect any boxes.
+009037.jpg,149,91,365,285
+009038.jpg,can not detect any boxes.
+009039.jpg,190,83,458,282
+009040.jpg,can not detect any boxes.
+009041.jpg,550,114,591,261
+009042.jpg,312,84,634,400
+009043.jpg,147,94,239,192
+009044.jpg,can not detect any boxes.
+009045.jpg,can not detect any boxes.
+009046.jpg,can not detect any boxes.
+009047.jpg,40,282,209,414
+009047.jpg,370,116,589,352
+009048.jpg,268,128,529,363
+009049.jpg,389,230,507,331
+009049.jpg,375,190,574,381
+009050.jpg,can not detect any boxes.
+009051.jpg,263,155,306,205
+009052.jpg,can not detect any boxes.
+009053.jpg,532,194,573,230
+009054.jpg,239,43,350,167
+009054.jpg,274,60,324,181
+009055.jpg,can not detect any boxes.
+009056.jpg,298,164,374,348
+009057.jpg,0,0,612,504
+009058.jpg,can not detect any boxes.
+009059.jpg,can not detect any boxes.
+009060.jpg,can not detect any boxes.
+009061.jpg,can not detect any boxes.
+009062.jpg,200,75,436,209
+009062.jpg,232,329,381,461
+009063.jpg,can not detect any boxes.
+009064.jpg,400,92,535,436
+009065.jpg,can not detect any boxes.
+009066.jpg,228,103,386,231
+009067.jpg,can not detect any boxes.
+009068.jpg,228,173,247,200
+009069.jpg,can not detect any boxes.
+009070.jpg,can not detect any boxes.
+009071.jpg,162,98,306,217
+009072.jpg,453,241,610,363
+009072.jpg,406,219,663,413
+009072.jpg,227,84,417,276
+009073.jpg,161,146,336,263
+009074.jpg,793,159,1090,483
+009075.jpg,223,181,320,256
+009076.jpg,293,78,511,284
+009077.jpg,359,35,631,461
+009077.jpg,148,153,204,255
+009078.jpg,222,166,428,364
+009079.jpg,can not detect any boxes.
+009080.jpg,can not detect any boxes.
+009081.jpg,can not detect any boxes.
+009082.jpg,can not detect any boxes.
+009083.jpg,326,59,599,427
+009084.jpg,489,157,709,355
+009085.jpg,356,162,502,310
+009086.jpg,355,92,565,280
+009087.jpg,500,188,555,229
+009088.jpg,355,152,497,264
+009089.jpg,can not detect any boxes.
+009090.jpg,can not detect any boxes.
+009091.jpg,39,173,102,235
+009092.jpg,241,68,628,427
+009093.jpg,can not detect any boxes.
+009094.jpg,313,192,524,407
+009095.jpg,205,115,246,198
+009096.jpg,can not detect any boxes.
+009097.jpg,can not detect any boxes.
+009098.jpg,can not detect any boxes.
+009099.jpg,257,151,345,266
+009100.jpg,733,36,752,64
+009100.jpg,192,152,228,204
+009100.jpg,328,118,559,315
+009101.jpg,70,315,223,435
+009102.jpg,can not detect any boxes.
+009103.jpg,can not detect any boxes.
+009104.jpg,can not detect any boxes.
+009105.jpg,can not detect any boxes.
+009106.jpg,99,276,264,414
+009106.jpg,433,188,629,324
+009107.jpg,177,179,248,257
+009108.jpg,can not detect any boxes.
+009109.jpg,47,260,108,353
+009109.jpg,343,142,476,273
+009109.jpg,703,176,842,310
+009109.jpg,569,242,652,336
+009110.jpg,can not detect any boxes.
+009111.jpg,can not detect any boxes.
+009112.jpg,can not detect any boxes.
+009113.jpg,455,251,699,411
+009114.jpg,268,247,343,327
+009114.jpg,163,218,204,310
+009115.jpg,can not detect any boxes.
+009116.jpg,can not detect any boxes.
+009117.jpg,142,138,333,301
+009118.jpg,324,199,340,226
+009118.jpg,570,182,656,271
+009118.jpg,404,167,423,192
+009119.jpg,86,190,267,322
+009120.jpg,343,37,392,133
+009121.jpg,can not detect any boxes.
+009122.jpg,325,112,365,202
+009123.jpg,70,169,367,392
+009123.jpg,398,182,423,216
+009124.jpg,390,44,456,98
+009124.jpg,492,41,563,98
+009125.jpg,can not detect any boxes.
+009126.jpg,78,107,158,170
+009127.jpg,can not detect any boxes.
+009128.jpg,230,250,383,382
+009128.jpg,59,187,194,334
+009129.jpg,can not detect any boxes.
+009130.jpg,525,146,574,200
+009130.jpg,35,163,83,207
+009131.jpg,can not detect any boxes.
+009132.jpg,can not detect any boxes.
+009133.jpg,can not detect any boxes.
+009134.jpg,266,208,389,315
+009135.jpg,309,78,349,114
+009136.jpg,317,97,378,166
+009137.jpg,can not detect any boxes.
+009138.jpg,195,138,399,282
+009139.jpg,can not detect any boxes.
+009140.jpg,287,152,512,337
+009141.jpg,332,98,524,275
+009142.jpg,can not detect any boxes.
+009143.jpg,19,39,186,170
+009144.jpg,334,75,706,395
+009145.jpg,253,112,561,344
+009146.jpg,57,75,87,131
+009147.jpg,can not detect any boxes.
+009148.jpg,can not detect any boxes.
+009149.jpg,can not detect any boxes.
+009150.jpg,can not detect any boxes.
+009151.jpg,can not detect any boxes.
+009152.jpg,can not detect any boxes.
+009153.jpg,can not detect any boxes.
+009154.jpg,can not detect any boxes.
+009155.jpg,can not detect any boxes.
+009156.jpg,216,96,544,367
+009157.jpg,402,275,454,330
+009158.jpg,can not detect any boxes.
+009159.jpg,can not detect any boxes.
+009160.jpg,242,65,328,173
+009161.jpg,177,131,254,211
+009162.jpg,332,93,392,156
+009162.jpg,441,372,480,400
+009162.jpg,171,127,213,155
+009162.jpg,35,382,78,414
+009163.jpg,165,167,195,216
+009163.jpg,49,166,78,213
+009164.jpg,can not detect any boxes.
+009165.jpg,can not detect any boxes.
+009166.jpg,171,170,389,319
+009167.jpg,can not detect any boxes.
+009168.jpg,419,204,520,278
+009169.jpg,can not detect any boxes.
+009170.jpg,364,87,402,159
+009171.jpg,can not detect any boxes.
+009172.jpg,293,195,550,400
+009173.jpg,218,39,418,322
+009174.jpg,132,99,364,377
+009175.jpg,can not detect any boxes.
+009176.jpg,801,214,839,283
+009176.jpg,473,106,492,136
+009176.jpg,422,103,441,134
+009177.jpg,can not detect any boxes.
+009178.jpg,229,120,381,256
+009179.jpg,can not detect any boxes.
+009180.jpg,218,202,256,272
+009180.jpg,412,149,458,191
+009181.jpg,can not detect any boxes.
+009182.jpg,629,135,703,205
+009183.jpg,can not detect any boxes.
+009184.jpg,can not detect any boxes.
+009185.jpg,21,0,58,31
+009186.jpg,194,200,793,608
+009186.jpg,1123,388,1623,750
+009187.jpg,can not detect any boxes.
+009188.jpg,196,137,276,222
+009189.jpg,can not detect any boxes.
+009190.jpg,351,114,591,290
+009191.jpg,117,82,278,236
+009192.jpg,172,163,419,317
+009193.jpg,382,120,607,310
+009194.jpg,can not detect any boxes.
+009195.jpg,238,144,286,230
+009196.jpg,421,170,525,262
+009197.jpg,482,102,505,135
+009198.jpg,can not detect any boxes.
+009199.jpg,can not detect any boxes.
+009200.jpg,can not detect any boxes.
+009201.jpg,394,202,530,336
+009202.jpg,can not detect any boxes.
+009203.jpg,443,96,560,219
+009204.jpg,266,213,296,247
+009205.jpg,370,276,403,339
+009206.jpg,215,98,287,181
+009207.jpg,96,90,221,208
+009208.jpg,can not detect any boxes.
+009209.jpg,329,125,460,275
+009210.jpg,can not detect any boxes.
+009211.jpg,can not detect any boxes.
+009212.jpg,176,159,215,232
+009213.jpg,577,184,660,284
+009213.jpg,335,188,433,293
+009213.jpg,67,171,157,269
+009214.jpg,309,143,357,270
+009214.jpg,568,169,620,309
+009215.jpg,can not detect any boxes.
+009216.jpg,can not detect any boxes.
+009217.jpg,403,118,821,467
+009218.jpg,can not detect any boxes.
+009219.jpg,216,160,409,317
+009220.jpg,can not detect any boxes.
+009221.jpg,285,149,374,244
+009222.jpg,325,96,547,297
+009223.jpg,can not detect any boxes.
+009224.jpg,717,152,752,202
+009225.jpg,151,172,205,221
+009225.jpg,246,225,291,265
+009226.jpg,274,161,418,273
+009227.jpg,404,120,441,189
+009228.jpg,can not detect any boxes.
+009229.jpg,can not detect any boxes.
+009230.jpg,147,141,230,202
+009230.jpg,317,192,384,267
+009231.jpg,248,64,442,248
+009232.jpg,380,150,577,317
+009233.jpg,377,148,411,203
+009233.jpg,268,64,329,129
+009233.jpg,115,102,146,166
+009234.jpg,180,30,772,442
+009235.jpg,176,87,301,228
+009235.jpg,351,85,483,305
+009236.jpg,can not detect any boxes.
+009237.jpg,can not detect any boxes.
+009238.jpg,can not detect any boxes.
+009239.jpg,39,102,128,205
+009240.jpg,can not detect any boxes.
+009241.jpg,can not detect any boxes.
+009242.jpg,can not detect any boxes.
+009243.jpg,can not detect any boxes.
+009244.jpg,can not detect any boxes.
+009245.jpg,can not detect any boxes.
+009246.jpg,91,301,155,356
+009247.jpg,72,320,353,480
+009248.jpg,115,59,174,164
+009248.jpg,257,157,290,234
+009248.jpg,525,151,667,270
+009249.jpg,can not detect any boxes.
+009250.jpg,can not detect any boxes.
+009251.jpg,730,84,812,168
+009252.jpg,can not detect any boxes.
+009253.jpg,can not detect any boxes.
+009254.jpg,218,79,685,398
+009255.jpg,533,261,788,428
+009255.jpg,55,340,208,416
+009255.jpg,37,265,244,444
+009256.jpg,can not detect any boxes.
+009257.jpg,can not detect any boxes.
+009258.jpg,199,180,394,353
+009259.jpg,307,140,526,340
+009260.jpg,221,249,313,438
+009261.jpg,6,195,47,232
+009262.jpg,can not detect any boxes.
+009263.jpg,354,174,451,275
+009264.jpg,can not detect any boxes.
+009265.jpg,can not detect any boxes.
+009266.jpg,can not detect any boxes.
+009267.jpg,can not detect any boxes.
+009268.jpg,can not detect any boxes.
+009269.jpg,231,74,389,216
+009270.jpg,can not detect any boxes.
+009271.jpg,can not detect any boxes.
+009272.jpg,can not detect any boxes.
+009273.jpg,0,208,362,512
+009274.jpg,37,141,88,186
+009275.jpg,273,193,391,297
+009276.jpg,can not detect any boxes.
+009277.jpg,can not detect any boxes.
+009278.jpg,can not detect any boxes.
+009279.jpg,438,66,534,169
+009280.jpg,can not detect any boxes.
+009281.jpg,376,197,584,347
+009282.jpg,133,98,253,192
+009283.jpg,474,106,591,223
+009283.jpg,710,115,750,173
+009284.jpg,can not detect any boxes.
+009285.jpg,294,233,542,424
+009286.jpg,can not detect any boxes.
+009287.jpg,392,248,409,275
+009287.jpg,480,256,503,292
+009288.jpg,305,109,580,362
+009289.jpg,can not detect any boxes.
+009290.jpg,353,59,503,261
+009291.jpg,387,47,463,234
+009292.jpg,can not detect any boxes.
+009293.jpg,can not detect any boxes.
+009294.jpg,can not detect any boxes.
+009295.jpg,can not detect any boxes.
+009296.jpg,can not detect any boxes.
+009297.jpg,135,197,222,280
+009297.jpg,397,151,602,339
+009298.jpg,379,116,476,252
+009299.jpg,210,205,286,272
+009300.jpg,can not detect any boxes.
+009301.jpg,479,122,745,321
+009301.jpg,129,113,352,277
+009302.jpg,353,132,392,164
+009303.jpg,can not detect any boxes.
+009304.jpg,321,96,551,324
+009305.jpg,271,194,359,273
+009306.jpg,can not detect any boxes.
+009307.jpg,can not detect any boxes.
+009308.jpg,278,225,354,292
+009309.jpg,can not detect any boxes.
+009310.jpg,can not detect any boxes.
+009311.jpg,205,90,369,243
+009312.jpg,can not detect any boxes.
+009313.jpg,can not detect any boxes.
+009314.jpg,can not detect any boxes.
+009315.jpg,can not detect any boxes.
+009316.jpg,can not detect any boxes.
+009317.jpg,253,173,283,224
+009318.jpg,263,235,312,282
+009319.jpg,can not detect any boxes.
+009320.jpg,can not detect any boxes.
+009321.jpg,can not detect any boxes.
+009322.jpg,can not detect any boxes.
+009323.jpg,0,122,210,359
+009324.jpg,can not detect any boxes.
+009325.jpg,215,185,428,323
+009326.jpg,can not detect any boxes.
+009327.jpg,335,89,527,280
+009328.jpg,239,222,424,366
+009329.jpg,can not detect any boxes.
+009330.jpg,118,25,311,158
+009331.jpg,can not detect any boxes.
+009332.jpg,can not detect any boxes.
+009333.jpg,can not detect any boxes.
+009334.jpg,477,81,640,228
+009335.jpg,can not detect any boxes.
+009336.jpg,181,121,338,258
+009337.jpg,can not detect any boxes.
+009338.jpg,208,243,284,327
+009338.jpg,328,172,405,241
+009339.jpg,can not detect any boxes.
+009340.jpg,can not detect any boxes.
+009341.jpg,234,145,358,280
+009341.jpg,391,176,545,302
+009342.jpg,186,100,213,150
+009343.jpg,571,81,626,262
+009343.jpg,412,166,452,310
+009344.jpg,225,164,416,298
+009345.jpg,can not detect any boxes.
+009346.jpg,348,151,760,449
+009347.jpg,456,255,566,332
+009348.jpg,345,172,475,312
+009349.jpg,618,105,650,155
+009350.jpg,138,142,306,287
+009351.jpg,can not detect any boxes.
+009352.jpg,653,27,701,89
+009353.jpg,can not detect any boxes.
+009354.jpg,can not detect any boxes.
+009355.jpg,can not detect any boxes.
+009356.jpg,can not detect any boxes.
+009357.jpg,316,233,517,361
+009357.jpg,36,97,330,371
+009358.jpg,can not detect any boxes.
+009359.jpg,can not detect any boxes.
+009360.jpg,can not detect any boxes.
+009361.jpg,can not detect any boxes.
+009362.jpg,238,138,576,348
+009363.jpg,453,109,657,278
+009364.jpg,can not detect any boxes.
+009365.jpg,481,237,578,356
+009365.jpg,167,39,269,158
+009366.jpg,232,174,541,432
+009367.jpg,can not detect any boxes.
+009368.jpg,can not detect any boxes.
+009369.jpg,81,161,265,377
+009369.jpg,355,150,568,400
+009370.jpg,can not detect any boxes.
+009371.jpg,191,117,363,336
+009372.jpg,486,223,548,280
+009373.jpg,can not detect any boxes.
+009374.jpg,103,65,340,252
+009375.jpg,87,100,244,252
+009375.jpg,315,172,483,312
+009376.jpg,215,105,428,272
+009377.jpg,can not detect any boxes.
+009378.jpg,can not detect any boxes.
+009379.jpg,can not detect any boxes.
+009380.jpg,can not detect any boxes.
+009381.jpg,can not detect any boxes.
+009382.jpg,can not detect any boxes.
+009383.jpg,can not detect any boxes.
+009384.jpg,70,284,94,307
+009384.jpg,97,317,210,388
+009384.jpg,145,171,270,275
+009385.jpg,472,56,804,410
+009386.jpg,can not detect any boxes.
+009387.jpg,426,234,533,348
+009387.jpg,131,114,185,270
+009388.jpg,can not detect any boxes.
+009389.jpg,545,290,595,328
+009390.jpg,195,231,214,246
+009391.jpg,369,145,598,354
+009392.jpg,115,154,282,284
+009393.jpg,can not detect any boxes.
+009394.jpg,can not detect any boxes.
+009395.jpg,can not detect any boxes.
+009396.jpg,can not detect any boxes.
+009397.jpg,can not detect any boxes.
+009398.jpg,196,83,550,388
+009399.jpg,167,117,230,188
+009400.jpg,126,66,731,480
+009401.jpg,can not detect any boxes.
+009402.jpg,can not detect any boxes.
+009403.jpg,288,166,410,271
+009404.jpg,466,97,526,233
+009405.jpg,233,80,663,435
+009406.jpg,274,99,444,272
+009406.jpg,319,129,427,235
+009407.jpg,275,204,424,360
+009408.jpg,648,286,700,335
+009408.jpg,473,225,515,276
+009409.jpg,can not detect any boxes.
+009410.jpg,590,372,616,407
+009411.jpg,364,196,463,265
+009411.jpg,207,262,270,330
+009412.jpg,435,300,586,449
+009413.jpg,365,234,433,302
+009413.jpg,225,154,319,239
+009414.jpg,282,126,476,311
+009415.jpg,339,45,414,124
+009416.jpg,can not detect any boxes.
+009417.jpg,370,163,470,280
+009418.jpg,295,184,472,317
+009419.jpg,can not detect any boxes.
+009420.jpg,can not detect any boxes.
+009421.jpg,163,7,661,350
+009422.jpg,131,476,177,511
+009422.jpg,105,185,139,252
+009422.jpg,93,422,130,453
+009422.jpg,277,77,343,147
+009423.jpg,can not detect any boxes.
+009424.jpg,can not detect any boxes.
+009425.jpg,can not detect any boxes.
+009426.jpg,377,265,450,328
+009426.jpg,584,199,634,317
+009427.jpg,203,51,311,153
+009428.jpg,470,188,542,262
+009428.jpg,185,88,344,222
+009429.jpg,can not detect any boxes.
+009430.jpg,can not detect any boxes.
+009431.jpg,can not detect any boxes.
+009432.jpg,233,184,391,330
+009433.jpg,can not detect any boxes.
+009434.jpg,321,108,528,276
+009435.jpg,can not detect any boxes.
+009436.jpg,372,177,405,232
+009437.jpg,512,79,572,245
+009437.jpg,479,42,603,236
+009437.jpg,109,114,224,218
+009438.jpg,231,231,426,376
+009439.jpg,can not detect any boxes.
+009440.jpg,229,120,305,206
+009441.jpg,296,112,372,188
+009442.jpg,can not detect any boxes.
+009443.jpg,524,196,719,384
+009444.jpg,can not detect any boxes.
+009445.jpg,can not detect any boxes.
+009446.jpg,412,101,463,218
+009447.jpg,can not detect any boxes.
+009448.jpg,can not detect any boxes.
+009449.jpg,158,165,266,245
+009450.jpg,195,103,245,152
+009451.jpg,can not detect any boxes.
+009452.jpg,202,100,415,298
+009453.jpg,216,440,418,524
+009453.jpg,170,241,446,533
+009453.jpg,523,226,863,511
+009454.jpg,404,65,724,424
+009455.jpg,285,179,325,216
+009456.jpg,can not detect any boxes.
+009457.jpg,193,146,371,327
+009458.jpg,can not detect any boxes.
+009459.jpg,83,219,103,239
+009459.jpg,164,206,184,224
+009459.jpg,32,139,111,199
+009460.jpg,can not detect any boxes.
+009461.jpg,can not detect any boxes.
+009462.jpg,531,173,671,288
+009462.jpg,156,76,332,249
+009463.jpg,can not detect any boxes.
+009464.jpg,306,192,543,410
+009465.jpg,281,149,320,207
+009466.jpg,169,201,250,289
+009467.jpg,272,131,479,333
+009468.jpg,can not detect any boxes.
+009469.jpg,can not detect any boxes.
+009470.jpg,can not detect any boxes.
+009471.jpg,357,169,369,185
+009471.jpg,392,187,407,204
+009471.jpg,426,204,450,234
+009472.jpg,291,238,391,338
+009473.jpg,286,90,654,429
+009474.jpg,558,282,662,398
+009475.jpg,97,43,271,304
+009476.jpg,227,29,537,343
+009477.jpg,can not detect any boxes.
+009478.jpg,can not detect any boxes.
+009479.jpg,can not detect any boxes.
+009480.jpg,can not detect any boxes.
+009481.jpg,can not detect any boxes.
+009482.jpg,can not detect any boxes.
+009483.jpg,can not detect any boxes.
+009484.jpg,349,103,451,224
+009485.jpg,67,64,156,192
+009486.jpg,can not detect any boxes.
+009487.jpg,517,83,760,293
+009488.jpg,618,113,742,222
+009488.jpg,310,175,358,300
+009489.jpg,337,163,531,364
+009490.jpg,173,305,271,388
+009490.jpg,538,303,644,389
+009491.jpg,201,413,312,507
+009492.jpg,39,52,87,159
+009493.jpg,395,130,667,294
+009494.jpg,can not detect any boxes.
+009495.jpg,692,117,895,290
+009495.jpg,117,150,217,253
+009495.jpg,318,162,604,363
+009496.jpg,can not detect any boxes.
+009497.jpg,can not detect any boxes.
+009498.jpg,can not detect any boxes.
+009499.jpg,can not detect any boxes.
+009500.jpg,can not detect any boxes.
+009501.jpg,218,135,261,217
+009502.jpg,can not detect any boxes.
+009503.jpg,268,270,516,457
+009504.jpg,468,108,679,282
+009505.jpg,139,104,174,214
+009506.jpg,can not detect any boxes.
+009507.jpg,517,156,574,291
+009508.jpg,can not detect any boxes.
+009509.jpg,can not detect any boxes.
+009510.jpg,276,48,539,413
+009511.jpg,91,122,163,169
+009511.jpg,67,5,119,45
+009511.jpg,11,152,60,198
+009511.jpg,133,20,190,62
+009512.jpg,can not detect any boxes.
+009513.jpg,281,48,502,292
+009514.jpg,can not detect any boxes.
+009515.jpg,644,166,733,248
+009515.jpg,12,162,65,255
+009515.jpg,495,168,554,223
+009515.jpg,290,98,404,201
+009516.jpg,can not detect any boxes.
+009517.jpg,82,106,263,263
+009517.jpg,231,243,429,401
+009518.jpg,210,31,230,67
+009518.jpg,306,163,330,194
+009518.jpg,567,147,602,211
+009519.jpg,can not detect any boxes.
+009520.jpg,213,195,290,281
+009520.jpg,510,170,605,255
+009521.jpg,can not detect any boxes.
+009522.jpg,139,230,348,377
+009522.jpg,449,206,625,361
+009523.jpg,can not detect any boxes.
+009524.jpg,412,201,442,243
+009524.jpg,274,216,292,243
+009524.jpg,363,62,393,100
+009524.jpg,123,135,141,159
+009524.jpg,238,179,264,227
+009524.jpg,504,165,534,221
+009524.jpg,369,215,387,244
+009524.jpg,545,180,578,223
+009524.jpg,658,149,685,200
+009524.jpg,607,154,644,201
+009524.jpg,193,106,212,131
+009524.jpg,610,41,626,69
+009524.jpg,367,71,388,93
+009524.jpg,152,250,168,277
+009524.jpg,399,71,416,95
+009524.jpg,456,171,483,214
+009524.jpg,83,262,99,286
+009525.jpg,54,20,329,169
+009526.jpg,123,324,159,387
+009526.jpg,132,256,166,323
+009527.jpg,117,173,336,348
+009528.jpg,can not detect any boxes.
+009529.jpg,can not detect any boxes.
+009530.jpg,165,184,336,329
+009531.jpg,can not detect any boxes.
+009532.jpg,can not detect any boxes.
+009533.jpg,173,97,426,462
+009534.jpg,can not detect any boxes.
+009535.jpg,444,134,574,274
+009536.jpg,can not detect any boxes.
+009537.jpg,70,360,124,416
+009538.jpg,can not detect any boxes.
+009539.jpg,253,196,596,437
+009540.jpg,391,262,501,353
+009540.jpg,171,129,344,266
+009541.jpg,278,87,329,140
+009542.jpg,386,175,467,244
+009542.jpg,655,111,721,171
+009542.jpg,146,96,212,150
+009543.jpg,can not detect any boxes.
+009544.jpg,can not detect any boxes.
+009545.jpg,105,189,180,257
+009546.jpg,can not detect any boxes.
+009547.jpg,195,146,315,262
+009548.jpg,141,132,362,306
+009549.jpg,can not detect any boxes.
+009550.jpg,114,200,280,320
+009551.jpg,33,96,114,153
+009552.jpg,286,163,348,216
+009553.jpg,can not detect any boxes.
+009554.jpg,484,122,589,218
+009555.jpg,100,273,314,455
+009555.jpg,509,81,688,273
+009556.jpg,can not detect any boxes.
+009557.jpg,can not detect any boxes.
+009558.jpg,can not detect any boxes.
+009559.jpg,can not detect any boxes.
+009560.jpg,can not detect any boxes.
+009561.jpg,can not detect any boxes.
+009562.jpg,194,95,409,292
+009563.jpg,38,238,189,369
+009563.jpg,62,277,176,342
+009563.jpg,347,127,504,266
+009564.jpg,279,171,510,338
+009565.jpg,213,69,228,97
+009566.jpg,150,195,181,245
+009567.jpg,323,127,562,318
+009568.jpg,can not detect any boxes.
+009569.jpg,284,152,338,217
+009570.jpg,387,131,456,196
+009570.jpg,631,120,693,179
+009570.jpg,124,118,183,224
+009571.jpg,457,385,562,456
+009572.jpg,303,132,583,392
+009573.jpg,263,137,464,362
+009574.jpg,can not detect any boxes.
+009575.jpg,261,141,556,342
+009576.jpg,can not detect any boxes.
+009577.jpg,251,198,399,320
+009578.jpg,131,319,160,352
+009579.jpg,179,50,696,452
+009580.jpg,can not detect any boxes.
+009581.jpg,can not detect any boxes.
+009582.jpg,598,44,848,254
+009583.jpg,128,261,181,301
+009583.jpg,219,311,251,348
+009584.jpg,432,42,491,89
+009584.jpg,371,212,569,389
+009585.jpg,can not detect any boxes.
+009586.jpg,476,45,572,148
+009587.jpg,270,162,477,332
+009588.jpg,274,201,462,314
+009589.jpg,can not detect any boxes.
+009590.jpg,458,117,553,231
+009591.jpg,can not detect any boxes.
+009592.jpg,can not detect any boxes.
+009593.jpg,can not detect any boxes.
+009594.jpg,187,151,456,357
+009595.jpg,171,164,385,365
+009596.jpg,can not detect any boxes.
+009597.jpg,can not detect any boxes.
+009598.jpg,can not detect any boxes.
+009599.jpg,can not detect any boxes.
+009600.jpg,145,214,260,309
+009601.jpg,249,80,346,299
+009601.jpg,41,309,131,407
+009601.jpg,271,122,327,264
+009601.jpg,563,122,823,268
+009601.jpg,388,178,427,326
+009602.jpg,can not detect any boxes.
+009603.jpg,0,6,115,124
+009603.jpg,292,95,456,236
+009604.jpg,can not detect any boxes.
+009605.jpg,184,257,215,336
+009605.jpg,355,204,401,237
+009606.jpg,95,61,137,97
+009607.jpg,336,107,641,359
+009608.jpg,can not detect any boxes.
+009609.jpg,155,221,202,300
+009609.jpg,310,246,366,288
+009610.jpg,191,38,326,146
+009611.jpg,can not detect any boxes.
+009612.jpg,can not detect any boxes.
+009613.jpg,can not detect any boxes.
+009614.jpg,237,145,428,346
+009615.jpg,467,142,577,240
+009616.jpg,can not detect any boxes.
+009617.jpg,can not detect any boxes.
+009618.jpg,can not detect any boxes.
+009619.jpg,101,183,150,281
+009620.jpg,281,309,333,360
+009620.jpg,133,240,227,302
+009621.jpg,293,232,339,325
+009622.jpg,212,211,323,314
+009622.jpg,526,177,638,309
+009623.jpg,can not detect any boxes.
+009624.jpg,276,51,604,328
+009625.jpg,100,169,184,259
+009625.jpg,382,150,490,242
+009626.jpg,361,180,449,275
+009627.jpg,can not detect any boxes.
+009628.jpg,can not detect any boxes.
+009629.jpg,can not detect any boxes.
+009630.jpg,361,56,696,296
+009631.jpg,can not detect any boxes.
+009632.jpg,141,51,685,427
+009633.jpg,319,138,370,243
+009634.jpg,133,226,173,276
+009634.jpg,319,235,361,291
+009634.jpg,409,233,445,295
+009634.jpg,214,208,280,258
+009635.jpg,287,148,464,318
+009636.jpg,92,105,300,251
+009637.jpg,235,107,378,254
+009638.jpg,can not detect any boxes.
+009639.jpg,220,206,374,353
+009639.jpg,39,243,210,386
+009639.jpg,425,138,603,304
+009640.jpg,235,79,627,413
+009641.jpg,can not detect any boxes.
+009642.jpg,226,49,338,163
+009643.jpg,452,50,647,245
+009644.jpg,143,220,192,308
+009644.jpg,576,232,622,322
+009645.jpg,can not detect any boxes.
+009646.jpg,can not detect any boxes.
+009647.jpg,can not detect any boxes.
+009648.jpg,can not detect any boxes.
+009649.jpg,242,336,273,376
+009649.jpg,198,313,225,346
+009649.jpg,105,313,148,346
+009650.jpg,338,158,569,395
+009651.jpg,can not detect any boxes.
+009652.jpg,56,107,128,160
+009653.jpg,212,106,382,248
+009654.jpg,can not detect any boxes.
+009655.jpg,can not detect any boxes.
+009656.jpg,247,138,592,434
+009657.jpg,89,67,123,107
+009658.jpg,can not detect any boxes.
+009659.jpg,can not detect any boxes.
+009660.jpg,can not detect any boxes.
+009661.jpg,401,76,522,196
+009662.jpg,166,15,800,463
+009663.jpg,271,162,319,209
+009663.jpg,215,51,268,109
+009664.jpg,can not detect any boxes.
+009665.jpg,can not detect any boxes.
+009666.jpg,398,245,539,367
+009667.jpg,358,149,576,340
+009668.jpg,can not detect any boxes.
+009669.jpg,can not detect any boxes.
+009670.jpg,162,127,202,207
+009671.jpg,can not detect any boxes.
+009672.jpg,128,59,306,252
+009673.jpg,460,30,558,217
+009673.jpg,487,65,540,195
+009674.jpg,338,54,388,98
+009675.jpg,261,112,575,443
+009676.jpg,can not detect any boxes.
+009677.jpg,207,429,300,523
+009678.jpg,can not detect any boxes.
+009679.jpg,274,78,326,134
+009680.jpg,255,87,506,316
+009681.jpg,457,130,524,192
+009682.jpg,284,133,349,186
+009682.jpg,473,132,545,187
+009683.jpg,343,112,530,296
+009684.jpg,can not detect any boxes.
+009685.jpg,can not detect any boxes.
+009686.jpg,203,155,325,238
+009686.jpg,361,229,435,313
+009687.jpg,504,119,638,362
+009688.jpg,430,255,461,294
+009689.jpg,582,0,839,171
+009690.jpg,382,219,625,418
+009691.jpg,195,114,482,400
+009692.jpg,128,66,267,173
+009693.jpg,228,109,308,196
+009694.jpg,349,144,547,354
+009695.jpg,597,202,1341,913
+009696.jpg,can not detect any boxes.
+009697.jpg,53,25,140,115
+009698.jpg,401,142,544,271
+009699.jpg,316,88,425,191
+009700.jpg,389,180,535,422
+009701.jpg,218,57,248,122
+009702.jpg,384,66,519,204
+009703.jpg,83,155,241,289
+009704.jpg,364,299,446,385
+009704.jpg,134,149,328,265
+009705.jpg,can not detect any boxes.
+009706.jpg,can not detect any boxes.
+009707.jpg,183,125,430,421
+009708.jpg,can not detect any boxes.
+009709.jpg,377,121,476,219
+009710.jpg,235,92,436,386
+009711.jpg,265,112,443,279
+009712.jpg,can not detect any boxes.
+009713.jpg,can not detect any boxes.
+009714.jpg,105,7,740,478
+009715.jpg,204,245,258,354
+009716.jpg,can not detect any boxes.
+009717.jpg,342,41,492,213
+009718.jpg,39,572,134,649
+009718.jpg,259,124,349,227
+009719.jpg,can not detect any boxes.
+009720.jpg,can not detect any boxes.
+009721.jpg,can not detect any boxes.
+009722.jpg,can not detect any boxes.
+009723.jpg,can not detect any boxes.
+009724.jpg,112,264,225,387
+009724.jpg,681,130,781,256
+009724.jpg,398,208,483,305
+009725.jpg,338,108,560,288
+009726.jpg,can not detect any boxes.
+009727.jpg,91,337,139,373
+009727.jpg,427,120,495,187
+009728.jpg,can not detect any boxes.
+009729.jpg,can not detect any boxes.
+009730.jpg,264,154,314,238
+009731.jpg,can not detect any boxes.
+009732.jpg,278,385,298,407
+009732.jpg,334,369,349,389
+009732.jpg,488,364,529,396
+009732.jpg,461,362,490,395
+009732.jpg,197,378,238,410
+009732.jpg,391,341,417,380
+009732.jpg,129,125,176,166
+009733.jpg,can not detect any boxes.
+009734.jpg,can not detect any boxes.
+009735.jpg,379,208,453,298
+009736.jpg,can not detect any boxes.
+009737.jpg,561,128,619,197
+009737.jpg,493,202,538,259
+009737.jpg,725,230,770,284
+009737.jpg,688,135,751,204
+009737.jpg,649,224,695,286
+009737.jpg,339,201,392,246
+009737.jpg,439,179,482,229
+009738.jpg,226,150,558,381
+009739.jpg,570,139,829,348
+009740.jpg,can not detect any boxes.
+009741.jpg,can not detect any boxes.
+009742.jpg,can not detect any boxes.
+009743.jpg,313,101,569,295
+009744.jpg,can not detect any boxes.
+009745.jpg,139,287,305,421
+009745.jpg,124,292,168,385
+009745.jpg,302,250,452,373
+009746.jpg,can not detect any boxes.
+009747.jpg,can not detect any boxes.
+009748.jpg,358,109,450,199
+009749.jpg,48,132,67,150
+009750.jpg,399,198,443,248
+009751.jpg,44,120,100,248
+009751.jpg,428,156,469,274
+009751.jpg,770,178,821,289
+009751.jpg,490,96,598,227
+009751.jpg,119,183,156,282
+009752.jpg,432,212,546,309
+009752.jpg,437,129,507,180
+009752.jpg,277,219,380,305
+009753.jpg,289,113,327,207
+009754.jpg,304,55,332,130
+009755.jpg,can not detect any boxes.
+009756.jpg,can not detect any boxes.
+009757.jpg,215,263,489,458
+009758.jpg,288,121,608,478
+009759.jpg,184,83,536,311
+009760.jpg,can not detect any boxes.
+009761.jpg,86,55,310,435
+009761.jpg,104,38,311,205
+009762.jpg,376,220,564,400
+009763.jpg,can not detect any boxes.
+009764.jpg,212,230,296,329
+009765.jpg,can not detect any boxes.
+009766.jpg,337,180,377,273
+009766.jpg,137,214,226,274
+009767.jpg,can not detect any boxes.
+009768.jpg,can not detect any boxes.
+009769.jpg,508,194,645,310
+009769.jpg,185,152,374,353
+009770.jpg,211,76,434,379
+009771.jpg,198,229,402,372
+009772.jpg,319,126,511,316
+009773.jpg,478,179,494,203
+009773.jpg,412,223,431,254
+009774.jpg,184,177,400,412
+009775.jpg,223,119,423,250
+009776.jpg,can not detect any boxes.
+009777.jpg,455,290,539,436
+009778.jpg,can not detect any boxes.
+009779.jpg,can not detect any boxes.
+009780.jpg,can not detect any boxes.
+009781.jpg,317,29,367,79
+009781.jpg,160,242,372,465
+009782.jpg,363,104,461,199
+009783.jpg,can not detect any boxes.
+009784.jpg,445,362,601,481
+009784.jpg,139,190,335,321
+009785.jpg,315,106,528,371
+009786.jpg,can not detect any boxes.
+009787.jpg,can not detect any boxes.
+009788.jpg,341,295,517,463
+009789.jpg,18,24,102,98
+009789.jpg,111,66,172,108
+009790.jpg,can not detect any boxes.
+009791.jpg,253,103,452,274
+009792.jpg,387,167,511,281
+009793.jpg,can not detect any boxes.
+009794.jpg,can not detect any boxes.
+009795.jpg,can not detect any boxes.
+009796.jpg,can not detect any boxes.
+009797.jpg,546,125,604,172
+009798.jpg,399,156,637,362
+009799.jpg,can not detect any boxes.
+009800.jpg,385,80,585,276
+009801.jpg,485,185,554,242
+009801.jpg,304,133,361,180
+009801.jpg,639,125,736,215
+009802.jpg,can not detect any boxes.
+009803.jpg,223,81,401,238
+009804.jpg,105,24,571,504
+009805.jpg,262,143,461,345
+009806.jpg,42,43,68,69
+009807.jpg,can not detect any boxes.
+009808.jpg,545,174,733,352
+009809.jpg,can not detect any boxes.
+009810.jpg,can not detect any boxes.
+009811.jpg,can not detect any boxes.
+009812.jpg,349,134,382,181
+009813.jpg,134,278,214,364
+009814.jpg,can not detect any boxes.
+009815.jpg,can not detect any boxes.
+009816.jpg,413,84,446,180
+009817.jpg,313,65,629,405
+009818.jpg,305,153,573,401
+009819.jpg,31,32,183,154
+009820.jpg,134,123,378,363
+009821.jpg,350,225,401,300
+009821.jpg,358,239,391,285
+009821.jpg,622,1081,685,1161
+009821.jpg,696,738,756,808
+009822.jpg,202,189,317,302
+009823.jpg,can not detect any boxes.
+009824.jpg,354,306,392,338
+009824.jpg,335,313,349,333
+009824.jpg,349,44,397,87
+009825.jpg,can not detect any boxes.
+009826.jpg,can not detect any boxes.
+009827.jpg,783,211,826,329
+009827.jpg,637,235,737,346
+009828.jpg,328,116,562,332
+009829.jpg,233,237,274,271
+009829.jpg,84,228,127,264
+009830.jpg,351,121,513,402
+009831.jpg,785,250,836,344
+009832.jpg,can not detect any boxes.
+009833.jpg,can not detect any boxes.
+009834.jpg,328,184,481,320
+009835.jpg,can not detect any boxes.
+009836.jpg,can not detect any boxes.
+009837.jpg,can not detect any boxes.
+009838.jpg,14,335,57,369
+009838.jpg,344,77,392,117
+009838.jpg,354,324,388,361
+009838.jpg,14,72,58,110
+009838.jpg,20,163,54,196
+009838.jpg,348,162,390,196
+009838.jpg,13,240,58,278
+009838.jpg,354,241,387,277
+009839.jpg,can not detect any boxes.
+009840.jpg,278,566,380,674
+009840.jpg,439,665,490,772
+009841.jpg,226,133,338,240
+009842.jpg,can not detect any boxes.
+009843.jpg,can not detect any boxes.
+009844.jpg,109,105,204,265
+009845.jpg,can not detect any boxes.
+009846.jpg,can not detect any boxes.
+009847.jpg,can not detect any boxes.
+009848.jpg,185,316,344,449
+009849.jpg,can not detect any boxes.
+009850.jpg,8,252,37,278
+009851.jpg,can not detect any boxes.
+009852.jpg,can not detect any boxes.
+009853.jpg,can not detect any boxes.
+009854.jpg,146,103,229,165
+009855.jpg,can not detect any boxes.
+009856.jpg,149,66,528,436
+009857.jpg,136,145,350,353
+009858.jpg,159,124,253,283
+009858.jpg,315,157,406,303
+009859.jpg,can not detect any boxes.
+009860.jpg,295,110,469,278
+009861.jpg,355,190,406,320
+009861.jpg,635,244,691,348
+009862.jpg,can not detect any boxes.
+009863.jpg,241,94,605,382
+009864.jpg,262,96,559,278
+009865.jpg,751,81,802,202
+009866.jpg,can not detect any boxes.
+009867.jpg,340,47,542,340
+009868.jpg,can not detect any boxes.
+009869.jpg,250,264,584,462
+009870.jpg,can not detect any boxes.
+009871.jpg,205,170,326,379
+009871.jpg,369,206,418,254
+009872.jpg,166,77,594,434
+009873.jpg,can not detect any boxes.
+009874.jpg,can not detect any boxes.
+009875.jpg,can not detect any boxes.
+009876.jpg,can not detect any boxes.
+009877.jpg,can not detect any boxes.
+009878.jpg,130,177,344,334
+009879.jpg,292,58,758,439
+009880.jpg,350,149,425,224
+009881.jpg,79,184,365,421
+009881.jpg,488,140,764,379
+009882.jpg,317,118,781,474
+009883.jpg,756,542,843,717
+009883.jpg,1105,498,1174,671
+009884.jpg,531,159,639,264
+009884.jpg,204,132,311,247
+009885.jpg,245,29,666,345
+009886.jpg,71,162,123,211
+009887.jpg,286,177,402,285
+009888.jpg,can not detect any boxes.
+009889.jpg,can not detect any boxes.
+009890.jpg,can not detect any boxes.
+009891.jpg,can not detect any boxes.
+009892.jpg,can not detect any boxes.
+009893.jpg,62,14,77,33
+009893.jpg,137,51,166,91
+009894.jpg,53,92,239,283
+009894.jpg,361,232,497,364
+009895.jpg,can not detect any boxes.
+009896.jpg,can not detect any boxes.
+009897.jpg,152,153,272,280
+009898.jpg,47,45,104,101
+009899.jpg,457,133,686,371
+009900.jpg,can not detect any boxes.
+009901.jpg,337,314,389,353
+009901.jpg,408,341,439,381
+009902.jpg,can not detect any boxes.
+009903.jpg,331,171,547,357
+009903.jpg,180,342,258,432
+009904.jpg,324,0,654,363
+009905.jpg,can not detect any boxes.
+009906.jpg,can not detect any boxes.
+009907.jpg,can not detect any boxes.
+009908.jpg,97,31,466,332
+009909.jpg,127,46,207,118
+009909.jpg,124,378,195,437
+009909.jpg,24,339,88,406
+009909.jpg,474,398,550,460
+009910.jpg,can not detect any boxes.
+009911.jpg,313,138,545,339
+009912.jpg,445,190,600,332
+009913.jpg,can not detect any boxes.
+009914.jpg,370,193,492,332
+009915.jpg,can not detect any boxes.
+009916.jpg,146,70,552,410
+009917.jpg,can not detect any boxes.
+009918.jpg,91,78,217,193
+009918.jpg,631,111,738,216
+009919.jpg,136,178,230,269
+009920.jpg,can not detect any boxes.
+009921.jpg,855,434,885,464
+009921.jpg,358,139,584,344
+009922.jpg,can not detect any boxes.
+009923.jpg,can not detect any boxes.
+009924.jpg,219,228,318,330
+009924.jpg,299,112,461,260
+009924.jpg,5,288,150,418
+009925.jpg,can not detect any boxes.
+009926.jpg,can not detect any boxes.
+009927.jpg,152,48,203,102
+009927.jpg,25,52,86,100
+009928.jpg,can not detect any boxes.
+009929.jpg,408,275,438,314
+009929.jpg,225,237,253,275
+009930.jpg,444,272,595,412
+009930.jpg,194,8,279,209
+009931.jpg,can not detect any boxes.
+009932.jpg,can not detect any boxes.
+009933.jpg,can not detect any boxes.
+009934.jpg,240,139,644,478
+009935.jpg,383,208,436,264
+009936.jpg,183,108,347,269
+009936.jpg,438,176,518,257
+009937.jpg,388,71,580,207
+009937.jpg,62,164,97,241
+009938.jpg,can not detect any boxes.
+009939.jpg,253,115,457,304
+009940.jpg,can not detect any boxes.
+009941.jpg,328,130,490,254
+009941.jpg,136,117,281,249
+009942.jpg,53,64,164,161
+009943.jpg,can not detect any boxes.
+009944.jpg,318,98,483,258
+009945.jpg,795,191,1253,556
+009946.jpg,244,79,728,424
+009947.jpg,422,77,576,208
+009947.jpg,127,219,195,294
+009948.jpg,307,115,503,329
+009949.jpg,314,67,613,276
+009950.jpg,can not detect any boxes.
+009951.jpg,can not detect any boxes.
+009952.jpg,can not detect any boxes.
+009953.jpg,can not detect any boxes.
+009954.jpg,can not detect any boxes.
+009955.jpg,524,322,576,432
+009955.jpg,289,284,379,381
+009956.jpg,132,30,484,316
+009957.jpg,150,131,256,218
+009958.jpg,can not detect any boxes.
+009959.jpg,297,241,377,324
+009959.jpg,137,146,241,217
+009960.jpg,can not detect any boxes.
+009961.jpg,can not detect any boxes.
+009962.jpg,can not detect any boxes.
+009963.jpg,119,169,420,430
+009964.jpg,can not detect any boxes.
+009965.jpg,can not detect any boxes.
+009966.jpg,245,123,315,196
+009967.jpg,can not detect any boxes.
+009968.jpg,can not detect any boxes.
+009969.jpg,425,349,469,386
+009969.jpg,145,203,264,313
+009970.jpg,can not detect any boxes.
+009971.jpg,73,98,184,177
+009972.jpg,236,90,452,375
+009973.jpg,20,256,232,396
+009973.jpg,248,107,471,373
+009973.jpg,43,104,204,253
+009974.jpg,262,65,535,323
+009975.jpg,can not detect any boxes.
+009976.jpg,238,196,518,414
+009977.jpg,385,104,480,205
+009978.jpg,0,112,151,264
+009979.jpg,123,211,281,338
+009979.jpg,304,202,465,327
+009980.jpg,455,77,649,220
+009981.jpg,can not detect any boxes.
+009982.jpg,can not detect any boxes.
+009983.jpg,can not detect any boxes.
+009984.jpg,can not detect any boxes.
+009985.jpg,558,107,652,198
+009986.jpg,256,129,372,289
+009987.jpg,206,102,606,470
+009988.jpg,246,140,298,195
+009988.jpg,342,123,395,178
+009989.jpg,can not detect any boxes.
+009990.jpg,330,8,458,100
+009991.jpg,551,110,694,242
+009991.jpg,286,137,391,274
+009992.jpg,can not detect any boxes.
+009993.jpg,91,106,313,345
+009994.jpg,can not detect any boxes.
+009995.jpg,can not detect any boxes.
+009996.jpg,can not detect any boxes.
+009997.jpg,425,128,527,230
+009998.jpg,can not detect any boxes.
+009999.jpg,486,103,534,196
+010000.jpg,can not detect any boxes.

@@ -1,0 +1,62 @@
+dataset/images_cartoon/000565.jpg 203,159,225,181,0
+dataset/images_cartoon/000566.jpg 81,111,164,187,0
+dataset/images_cartoon/000567.jpg 154,169,238,251,0
+dataset/images_cartoon/000568.jpg 204,258,314,359,0
+dataset/images_cartoon/000569.jpg 421,276,459,309,0
+dataset/images_cartoon/000570.jpg 725,356,749,394,0 435,260,464,323,0 249,241,282,290,0
+dataset/images_cartoon/000571.jpg 97,130,262,267,0
+dataset/images_cartoon/000572.jpg 554,154,676,369,0
+dataset/images_cartoon/000573.jpg 335,86,541,267,0
+dataset/images_cartoon/000574.jpg 425,161,517,254,0
+dataset/images_cartoon/000575.jpg 374,162,491,263,0
+dataset/images_cartoon/000576.jpg 329,156,346,174,0
+dataset/images_cartoon/000577.jpg 341,299,440,385,0
+dataset/images_cartoon/000578.jpg 446,136,586,248,0
+dataset/images_cartoon/000579.jpg 336,243,412,301,0 156,67,180,105,0
+dataset/images_cartoon/000580.jpg 245,175,294,232,0
+dataset/images_cartoon/000581.jpg 281,157,398,267,0
+dataset/images_cartoon/000582.jpg 538,184,556,204,0 507,233,527,254,0 435,49,449,70,0 307,42,328,64,0 78,94,102,126,0
+dataset/images_cartoon/000583.jpg 181,169,230,219,0
+dataset/images_cartoon/000584.jpg 374,51,425,102,0
+dataset/images_cartoon/000585.jpg 7,397,38,445,0 75,319,126,378,0 243,199,300,265,0 436,274,487,343,0 483,92,625,220,0
+dataset/images_cartoon/000586.jpg 349,94,447,162,0 612,136,670,184,0 266,357,290,381,0
+dataset/images_cartoon/000587.jpg 530,120,659,228,0
+dataset/images_cartoon/000588.jpg 180,32,196,53,0 107,31,123,52,0
+dataset/images_cartoon/000589.jpg 148,72,294,196,0
+dataset/images_cartoon/000590.jpg 94,230,142,277,0 97,90,220,249,0
+dataset/images_cartoon/000591.jpg 141,138,218,202,0 312,190,365,236,0
+dataset/images_cartoon/000592.jpg 281,110,521,336,0 50,212,252,403,0
+dataset/images_cartoon/000593.jpg 579,205,680,301,0 481,360,521,394,0 265,50,334,163,0
+dataset/images_cartoon/000594.jpg 547,134,608,395,0 296,128,526,311,0 40,127,285,292,0
+dataset/images_cartoon/000595.jpg 140,263,265,369,0
+dataset/images_cartoon/000596.jpg 122,253,187,314,0 345,253,406,309,0 548,263,618,322,0
+dataset/images_cartoon/000597.jpg 204,65,366,244,0
+dataset/images_cartoon/000598.jpg 156,242,207,286,0 321,271,346,304,0 101,262,157,323,0 64,340,109,384,0 1,259,29,294,0 587,57,608,106,0
+dataset/images_cartoon/000599.jpg 136,314,173,360,0
+dataset/images_cartoon/000600.jpg 496,206,551,249,0 405,278,444,299,0 459,344,481,374,0 338,315,372,336,0 247,226,293,253,0
+dataset/images_cartoon/000601.jpg 303,61,395,181,0
+dataset/images_cartoon/000602.jpg 202,167,357,340,0 393,241,438,302,0
+dataset/images_cartoon/000603.jpg 208,110,283,211,0
+dataset/images_cartoon/000604.jpg 466,177,623,318,0 183,177,349,333,0
+dataset/images_cartoon/000605.jpg 215,122,276,176,0
+dataset/images_cartoon/000606.jpg 361,215,520,370,0
+dataset/images_cartoon/000607.jpg 120,192,174,255,0
+dataset/images_cartoon/000608.jpg 28,297,136,376,0 234,293,338,371,0 440,292,552,377,0 506,167,681,356,0 379,367,458,456,0 742,348,836,466,0
+dataset/images_cartoon/000609.jpg 403,103,544,290,0 575,155,695,306,0
+dataset/images_cartoon/000610.jpg 471,185,664,345,0 228,203,385,345,0
+dataset/images_cartoon/000611.jpg 592,107,671,204,0
+dataset/images_cartoon/000612.jpg 284,103,573,307,0
+dataset/images_cartoon/000613.jpg 188,499,255,562,0 148,408,216,480,0 292,176,367,254,0 261,438,320,508,0 323,280,396,347,0 113,313,184,386,0 139,222,208,288,0 200,148,261,219,0 340,375,405,454,0
+dataset/images_cartoon/000614.jpg 357,164,492,297,0
+dataset/images_cartoon/000615.jpg 134,263,180,296,0
+dataset/images_cartoon/000616.jpg 575,47,651,125,0 131,235,171,285,0
+dataset/images_cartoon/000617.jpg 198,203,390,376,0
+dataset/images_cartoon/000618.jpg 290,173,447,333,0
+dataset/images_cartoon/000619.jpg 308,140,429,293,0
+dataset/images_cartoon/000620.jpg 23,169,89,225,0 273,143,371,229,0 45,279,72,298,0
+dataset/images_cartoon/000621.jpg 408,166,461,281,0
+dataset/images_cartoon/000622.jpg 228,136,406,383,0
+dataset/images_cartoon/000623.jpg 35,226,78,286,0 356,74,394,131,0 192,35,248,77,0 433,311,485,374,0
+dataset/images_cartoon/000624.jpg 205,80,263,132,0
+dataset/images_cartoon/000625.jpg 202,139,298,216,0 325,214,412,288,0
+dataset/images_cartoon/000626.jpg 69,210,129,269,0 448,280,517,351,0
